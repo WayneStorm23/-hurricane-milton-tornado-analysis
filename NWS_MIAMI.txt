@@ -1,0 +1,2089 @@
+
+801 
+NOUS42 KMFL 152051
+PNSMFL
+FLZ063-066>075-168-172>174-160900-
+
+Public Information Statement
+National Weather Service Miami FL
+451 PM EDT Tue Oct 15 2024
+
+...NWS Damage Survey for the Hurricane Milton Tornado Event - Update #3...
+
+.Update...This update includes all tornadoes recorded during Hurricane
+Milton on October 9th, 2024. This update also split the long track tornado
+from US-41 through Lakeport into 4 individual tornadoes from the same supercell.
+It was confirmed that the tornado was not continuous for the duration of the 
+supercell.
+
+.Overview...A total of 15 tornadoes were documented, with multiple tornadoes 
+being produced by the same supercell in some cases. The day ended with Glades 
+and Palm Beach counties experiencing 4 tornadoes each and each county had a 
+separate tornado with a peak intensity of EF-3 (Lakeport & Palm Beach Gardens). 
+A total of 2 EF3's, 6 EF1's, 3 EF0's, and 4 EFU's. EFU's are of unknown 
+intensity as they were either confirmed with tornadic debris signatures and/or 
+spotter photos/video, with no damage indicators present. 
+
+
+.Florida City/Homestead...
+
+Rating:                 EF1
+Estimated Peak Wind:    87 mph
+Path Length /statute/:  2.93 miles
+Path Width /maximum/:   0 yards
+Fatalities:             0
+Injuries:               0
+
+Start Date:             10/09/2024
+Start Time:             04:27 AM EDT
+Start Location:         2 WNW Florida City / Miami-Dade County / FL
+Start Lat/Lon:          25.4751 / -80.5144
+
+End Date:               10/09/2024
+End Time:               04:40 AM EDT
+End Location:           3 SW Florida City / Miami-Dade County / FL
+End Lat/Lon:            25.4329 / -80.5207
+
+Survey Summary:
+
+This was one of the first supercells that produced a tornado associated
+with Hurricane Milton. It was in a cluster of a few small supercells and
+produced a brief tornado that was able to attain EF 1 intensity. While
+the tornado never produced a tornadic debris signature, it did have a 
+couple instances of gate to gate rotation. Most of the damage was 
+characterized by light fence, tree, or yard damage. The worst damage
+was essentially abeam Florida City where several trees were reported down.
+
+.US 41/Tamiami Trail ...
+
+Rating:                 EF0
+Estimated Peak Wind:    80 mph
+Path Length /statute/:  9.04 miles
+Path Width /maximum/:   0 yards
+Fatalities:             0
+Injuries:               0
+
+Start Date:             10/09/2024
+Start Time:             08:45 AM EDT
+Start Location:         4 SSW Fortymile Bend / Miami-Dade County / FL
+Start Lat/Lon:          25.7157 / -80.8679
+
+End Date:               10/09/2024
+End Time:               08:49 AM EDT
+End Location:           2 ESE Dade-Collier Train / Miami-Dade County / FL
+End Lat/Lon:            25.8471 / -80.8679
+
+Survey Summary:
+
+This was the first damage report associated with a long track supercell that
+would go on to produce 4 tornadoes from Tamiami Trail through Hendry and Glades
+counties, and one of the 2 tornadoes near Lakeport. While a discernible TDS was
+not noted with the storm at this point, a strong gate to gate signature was present
+in the area where damage was found during a survey.
+
+.Miccosukee...
+
+Rating:                 EFU
+Estimated Peak Wind:    0 mph
+Path Length /statute/:  13.52 miles
+Path Width /maximum/:   0 yards
+Fatalities:             0
+Injuries:               0
+
+Start Date:             10/09/2024
+Start Time:             09:42 AM EDT
+Start Location:         3 S Miccosukee Indian Reservation / Collier County / FL
+Start Lat/Lon:          26.1261 / -80.8774
+
+End Date:               10/09/2024
+End Time:               10:06 AM EDT
+End Location:           4 ENE Big Cypress Semino / Hendry County / FL
+End Lat/Lon:            26.3195 / -80.9145
+
+Survey Summary:
+
+From the same storm that produced a brief tornado across US 41,
+a new tornado was first spotted southwest of the Miccosukee Rest
+Area on exit 49 along Interstate 75 just west of the Collier-
+Broward County line. Florida Department of Transportation traffic
+cameras and numerous public videos showed the progress of a large
+tornado across Interstate 75 and north-northwestward over rural
+portions of eastern Collier County to the west of Snake Road. The
+tornado was spotted entering the Big Cypress Seminole Indian
+Reservation around 953 AM EDT. A video of a large tornado with 
+debris aloft crossing Josie Billie Highway just east of Big 
+Cypress Seminole Village at 959 AM EDT was also provided. 
+
+.I-75 East...
+
+Rating:                 EFU
+Estimated Peak Wind:    0 mph
+Path Length /statute/:  4.68 miles
+Path Width /maximum/:   0 yards
+Fatalities:             0
+Injuries:               0
+
+Start Date:             10/09/2024
+Start Time:             10:04 AM EDT
+Start Location:         9 W Weston / Broward County / FL
+Start Lat/Lon:          26.1268 / -80.5309
+
+End Date:               10/09/2024
+End Time:               10:15 AM EDT
+End Location:           11 WNW Weston / Broward County / FL
+End Lat/Lon:            26.1921 / -80.5515
+
+Survey Summary:
+Tornado captured on traffic camera and via storm chaser. No
+visible damage, area where tornado was on the ground inaccessible
+and unpopulated.
+
+.Clewiston...
+
+Rating:                 EF1
+Estimated Peak Wind:    95 mph
+Path Length /statute/:  16.97 miles
+Path Width /maximum/:   0 yards
+Fatalities:             0
+Injuries:               0
+
+Start Date:             10/09/2024
+Start Time:             10:42 AM EDT
+Start Location:         4 E Moore Haven /  / FL
+Start Lat/Lon:          26.8212 / -81.0321
+
+End Date:               10/09/2024
+End Time:               11:20 AM EDT
+End Location:           10 E Devils Garden / Hendry County / FL
+End Lat/Lon:            26.5841 / -80.96340000000001
+
+Survey Summary:
+
+The supercell that produced tornadoes further south near I-75 and US 41,
+a new tornado spawned and moved through rural portions of eastern Hendry 
+County until it entered the City of Clewiston and moved across the area 
+of the Sky Valley neighborhood around 1110 AM EDT. Public video and photo 
+reports from the area around Clewiston Walmart show a large tornado with 
+debris crossing Sugarland Highway/US 27 near Sky Valley. The tornado then 
+dissipated as it entered sugarcane fields in southeastern Glades County. 
+
+.Ortona...
+
+Rating:                 EF1
+Estimated Peak Wind:    110 mph
+Path Length /statute/:  29.89 miles
+Path Width /maximum/:   0 yards
+Fatalities:             0
+Injuries:               0
+
+Start Date:             10/09/2024
+Start Time:             11:27 AM EDT
+Start Location:         8 SSE Devils Garden / Hendry County / FL
+Start Lat/Lon:          26.4952 / -81.1237
+
+End Date:               10/09/2024
+End Time:               12:11 PM EDT
+End Location:           4 ESE Palmdale / Glades County / FL
+End Lat/Lon:            26.9135 / -81.2528
+
+Survey Summary:
+
+The storm that ended up producing this tornado took on supercellular
+characteristics as it exited Collier county and moved north into extreme
+southeast Hendry county around 11:00 AM. This storm did not have any eye 
+witness reporting of a tornado, however the survey team was able to find
+scattered areas of utility pole damage. Coincident with one area of pole
+damage was a tornadic debris signature (TDS) as the tornado crossed SR 80 
+at the Hendry/Glades line. The TDS disspipated and the last damage was
+identified just south of Palmdale.
+
+.Belle Glade...
+
+Rating:                 EF0
+Estimated Peak Wind:    74 mph
+Path Length /statute/:  15.53 miles
+Path Width /maximum/:   0 yards
+Fatalities:             0
+Injuries:               0
+
+Start Date:             10/09/2024
+Start Time:             11:40 AM EDT
+Start Location:         2 SSE Port Mayaca /  / FL
+Start Lat/Lon:          26.9531 / -80.615
+
+End Date:               10/09/2024
+End Time:               12:08 PM EDT
+End Location:           5 NE Belle Glade / Palm Beach County / FL
+End Lat/Lon:            26.7286 / -80.5906
+
+Survey Summary:
+
+This tornado was spawned from a supercell that earlier produced a tornado
+near the I-75 and US 27 intersection in central Broward county. A storm
+chaser witnessed the initial touchdown of this tornado just south of US 98
+before briefly lifting and then remaining on the ground for at least 10 minutes.
+The only damage indicator found with this tornado was just as it was about to
+exit Palm Beach county on the eastern edge of Lake Okeechobee between Sand Cut 
+and Port Myaca. Damage to a large hardwood tree was used for the classification 
+of this tornado.
+
+.Lakeport West Side...
+
+Rating:                 EF1
+Estimated Peak Wind:    110 mph
+Path Length /statute/:  6.28 miles
+Path Width /maximum/:   0 yards
+Fatalities:             0
+Injuries:               0
+
+Start Date:             10/09/2024
+Start Time:             11:44 AM EDT
+Start Location:         3 WSW Brighton Seminole / Glades County / FL
+Start Lat/Lon:          27.0754 / -81.1119
+
+End Date:               10/09/2024
+End Time:               11:59 AM EDT
+End Location:           3 ENE Lakeport / Glades County / FL
+End Lat/Lon:            26.9874 / -81.0846
+
+Survey Summary:
+
+From the same storm that produced tornadoes across the Everglades
+and Clewiston, a new tornado was spawned across the western portions 
+of the lake where it was captured by the Harney Pond WeatherSTEM camera 
+between 1135 AM EDT and 1144 AM EDT. The tornado emerged over the 
+Herbert Hoover Dike and entered the Miller Drive/Friendship Drive 
+neighborhood where it damaged several manufactured homes and vegation 
+before crossing Florida State Road 78 and advancing down Click Drive 
+where it damaged several manufactured homes, rolled an outbuilding
+off its foundation, and snapped a wooden utility pole at its 
+base. Click Drive appeared to have some of the highest damage 
+indicators attributable to building damage with this tornado 
+damage survey.
+
+The tornado proceeded into fields to the west of the Harney Pond
+Canal before entering the Brighton Seminole Indian Reservation.
+Residents reported seeing the tornado to the west of the Harney
+Pond Canal from the embankment as it crossed several cattle
+pastures before entering the Red Barn area to the west of Brighton
+Seminole Village. Several mature hardwood trees were uprooted or
+suffered a loss of their crowns along Red Barn Road. The tornado 
+likely dissipated as it crossed the canal or just after in the 
+pastures to the north.
+
+NWS Miami would like to thank the Florida Department of 
+Transportation, the Miccosukee Tribe of Indians of Florida, 
+Collier County Emergency Management, Hendry County Emergency 
+Management, the City of Clewiston, Glades County Emergency 
+Management and the Seminole Tribe of Indians of Florida for their 
+hospitality and assistance during the damage survey.
+
+.CR 833 North Side...
+
+Rating:                 EF0
+Estimated Peak Wind:    60 mph
+Path Length /statute/:  1.28 miles
+Path Width /maximum/:   0 yards
+Fatalities:             0
+Injuries:               0
+
+Start Date:             10/09/2024
+Start Time:             02:15 PM EDT
+Start Location:         11 NW Big Cypress Semino / Hendry County / FL
+Start Lat/Lon:          26.4502 / -81.0533
+
+End Date:               10/09/2024
+End Time:               02:17 PM EDT
+End Location:           11 SE Devils Garden / Hendry County / FL
+End Lat/Lon:            26.4674 / -81.0454
+
+Survey Summary:
+
+This was one of three brief touchdowns from a cluster of 3 supercells across
+interior Hendry county in the afternoon. Minor tree damage was noted during
+a storm survey and was time matched with a velocity couplet.
+
+.Wilson Way...
+
+Rating:                 EF1
+Estimated Peak Wind:    102 mph
+Path Length /statute/:  1.26 miles
+Path Width /maximum/:   0 yards
+Fatalities:             0
+Injuries:               0
+
+Start Date:             10/09/2024
+Start Time:             02:19 PM EDT
+Start Location:         10 NW Big Cypress Semino / Hendry County / FL
+Start Lat/Lon:          26.4311 / -81.0388
+
+End Date:               10/09/2024
+End Time:               02:21 PM EDT
+End Location:           10 NNW Big Cypress Semino / Hendry County / FL
+End Lat/Lon:            26.444 / -81.0243
+
+Survey Summary:
+
+This was one of three brief touchdowns from a cluster of 3 supercells across
+interior Hendry county in the afternoon. Damage to a large utility pole was 
+noted along Wilson Way just west of CR 833 during a storm survey, and was time 
+matched with a velocity couplet.
+
+.CR 833 South Side...
+
+Rating:                 EF1
+Estimated Peak Wind:    107 mph
+Path Length /statute/:  1.74 miles
+Path Width /maximum/:   0 yards
+Fatalities:             0
+Injuries:               0
+
+Start Date:             10/09/2024
+Start Time:             02:21 PM EDT
+Start Location:         9 NNW Big Cypress Semino / Hendry County / FL
+Start Lat/Lon:          26.4335 / -81.0137
+
+End Date:               10/09/2024
+End Time:               02:23 PM EDT
+End Location:           9 NW Big Cypress Semino / Hendry County / FL
+End Lat/Lon:            26.419 / -81.0366
+
+Survey Summary:
+
+This was one of three brief touchdowns from a cluster of 3 supercells across
+interior Hendry county in the afternoon. Minor tree damage was noted during
+a storm survey and was time matched with a velocity couplet.
+
+.Lakeport East Side...
+
+Rating:                 EF3
+Estimated Peak Wind:    140 mph
+Path Length /statute/:  15.46 miles
+Path Width /maximum/:   0 yards
+Fatalities:             0
+Injuries:               0
+
+Start Date:             10/09/2024
+Start Time:             02:24 PM EDT
+Start Location:         5 NE Moore Haven /  / FL
+Start Lat/Lon:          26.8878 / -81.0381
+
+End Date:               10/09/2024
+End Time:               02:42 PM EDT
+End Location:           2 NW Brighton Seminole / Glades County / FL
+End Lat/Lon:            27.1086 / -81.0814
+
+Survey Summary:
+
+This was a violent EF-3 tornado that at peak 
+produced an estimated 140 mph wind in the Sarasota Colony
+neighborhood of Glades County.
+
+The earliest images of this tornado were captured
+over the western Lake Okeechobee littoral shelf from the Harney
+Pond WeatherSTEM camera around 230 PM EDT. The debris from the 
+littoral shelf and associated vegetation was lofted in the air 
+producing a tornadic debris signature detectable by the distant 
+Miami radar by 235 PM EDT. 
+
+The first observed property damage attributable to this tornado 
+was in the Sarasota Colony neighborhood of Lakeport where the 
+tornado demolished the second story dwellings of three well-built 
+homes and then proceeded to cross Florida State Road 78 into the 
+Fishermans Lane neighborhood where it destroyed the roofs and 
+broke windows of 1920s-era Florida homes, lofted and tossed 
+several manufactured homes and travel trailers, flipped a Ford 
+Focus station wagon, and deposited debris over two blocks from 
+their original location into the bottom of a retention pond behind
+the neighborhood. One manufactured home chasis was observed 
+wrapped 15 to 20 feet above the ground around a hardwood tree 
+located across the street from its original location with the 
+contents of the home located in the pond almost 200 yards 
+downstream. Three residents were injured while taking shelter in
+their homes. Damage from multiple vorticies was observed at this
+location including one swath that reached EF-1 intensity to the 
+east of the main EF-3 damage path.
+
+The tornado then proceeded north-northwest to the east of the 
+Harney Pond Canal into the Brighton Seminole Indian Reservation. A
+tornadic debris signature was detectable on Miami radar at 248 PM
+EDT as the tornado entered the southern limits of the reservation.
+As the tornado continued NNW, it damaged trees and pulled metal 
+panels from roofing of assorted outbuildings from different 
+homesteads on the south side of the reservation. The tornado 
+entered the Brighton Seminole Village causing tree and chickee hut 
+roof damage in the Knotts Landing neighborhood before moving into 
+the Sports Complex where it demolished the spectator and dugout 
+areas of some of the baseball fields. The tornado likely lifted 
+behind one of the baseball fields around 249 PM EDT. Miami radar 
+continue to detect a tornadic debris signature through 250 PM EDT 
+as the storm moved north along Reservation Road.
+
+NWS Miami would like to thank Glades County Emergency Management
+and the Seminole Tribe of Indians of Florida for their hospitality
+and assistance during the damage survey.
+
+.US 98 West Side...
+
+Rating:                 EFU
+Estimated Peak Wind:    0 mph
+Path Length /statute/:  16.35 miles
+Path Width /maximum/:   0 yards
+Fatalities:             0
+Injuries:               0
+
+Start Date:             10/09/2024
+Start Time:             02:49 PM EDT
+Start Location:         6 W Lion Country Safari Park / Palm Beach County / FL
+Start Lat/Lon:          26.7294 / -80.4646
+
+End Date:               10/09/2024
+End Time:               03:11 PM EDT
+End Location:           5 SE Indiantown / Martin County / FL
+End Lat/Lon:            26.964 / -80.4241
+
+Survey Summary:
+
+The cell responsible for this tornado began displaying supercellular
+characteristics as it exited Broward county near US 27. A storm chaser reported
+the tornado first touched down just north of US 98 and remained on the ground in
+excess of 10 minutes before it moved out of their sight. A tornadic debris signature
+(TDS) was noted as it moved north of SR-700 and was visible up to the Palm Beach/Martin
+county line.
+
+.US 98 East Side...
+
+Rating:                 EFU
+Estimated Peak Wind:    0 mph
+Path Length /statute/:  19.62 miles
+Path Width /maximum/:   0 yards
+Fatalities:             0
+Injuries:               0
+
+Start Date:             10/09/2024
+Start Time:             04:33 PM EDT
+Start Location:         5 WSW Lion Country Safari Park / Palm Beach County / FL
+Start Lat/Lon:          26.6907 / -80.4445
+
+End Date:               10/09/2024
+End Time:               05:00 PM EDT
+End Location:           7 WNW Caloosa / Martin County / FL
+End Lat/Lon:            26.9622 / -80.3477
+
+Survey Summary:
+
+A storm chaser provided photographic evidence of a tornado on the ground with
+visible debris and reported watching the tornado move north as it crossed
+Southern Blvd. AMX radar then picked up a couple different TDS signatures with 
+this supercell before it crossed into Martin county and moved east of Indiantown.
+
+
+.Palm Beach Gardens...
+
+Rating:                 EF3
+Estimated Peak Wind:    140 mph
+Path Length /statute/:  28.95 miles
+Path Width /maximum/:   0 yards
+Fatalities:             0
+Injuries:               0
+
+Start Date:             10/09/2024
+Start Time:             04:43 PM EDT
+Start Location:         9 SSW Wellington / Palm Beach County / FL
+Start Lat/Lon:          26.5555 / -80.3321
+
+End Date:               10/09/2024
+End Time:               05:21 PM EDT
+End Location:           1 WNW Philo Farms / Palm Beach County / FL
+End Lat/Lon:            26.9565 / -80.1913
+
+Survey Summary:
+
+Considerable structural damage was observed over a large portion
+of this tornado track. The southernmost point of this survey is 
+marked by a double wide mobile home on Deer Path Lane in the Rustic
+Ranches section of Wellington which was left practically 
+unrecognizable, and rated an EF-3. The track continued NNE over the 
+far western portion of Wellington, across the Lakefield West, 
+Meadowwood, and Binks Forest communities, where EF-1 and EF-2 damage
+was noted to homes and trees.
+
+The tornado crossed Southern Boulevard/US 98, then continued NNE
+across Loxahatchee Groves and The Acreage where EF-1 to isolated
+EF-2 damage was observed to homes, trees, and outbuildings. 
+
+The tornado intensified as it approached Northlake Boulevard on the 
+north end of The Acreage, then did its most considerable damage in
+the Avenir community of Palm Beach Gardens. At the beginning of this
+community, a large portion of the roof collapsed of a Publix 
+supermarket building which was recently completed and set to open in
+the near future, and rated EF-3. Considerable structural damage rated 
+EF-2 and EF-3, including heavy roof damage, impact-resistance windows 
+which were shattered and blown in, vehicles lifted and moved at least
+100 yards, was observed in the communities in Avenir. 
+
+The tornado then moved just west but very close to North Palm Beach 
+County General Aviation Airport, where a wind gust of 92 mph from 
+the SSW was measured at the AWOS around 510 PM. The tornado crossed
+Bee Line Highway/SR 710 where tree damage was observed, then entered
+Jupiter Farms where EF-1 to EF-2 damage was noted to trees, 
+outbuildings, and power poles. Footage from a Florida Turnpike highway
+camera showed the tornado moving north past Jupiter Farms to the
+Martin County line, where it likely continued into Martin County.
+
+Path width was 200-300 yards for much of the track, with only a few
+places where the circulation may have briefly lifted. 
+
+The radar circulation of the tornado was seen well south of 
+Wellington in the Loxahatchee National Wildlife Refuge, and a video
+of the tornado was captured in this area from western Delray Beach.
+The track length indicated here is only for the surveyed portion, and
+if the track is extended southward to the refuge where the radar 
+circulation suggested the tornado may have begun, then it would have
+exceeded 30 miles.  
+
+NWS Miami would like to thank the Palm Beach County Division of
+Emergency Management, Palm Beach County Sheriff's Office, and
+Palm Beach Gardens PD for their assistance in providing data and
+ground survey access. 
+
+&&
+
+EF Scale: The Enhanced Fujita Scale classifies tornadoes into the
+following categories:
+
+EF0.....65 to 85 mph
+EF1.....86 to 110 mph
+EF2.....111 to 135 mph
+EF3.....136 to 165 mph
+EF4.....166 to 200 mph
+EF5.....>200 mph
+
+NOTE:
+The information in this statement is preliminary and subject to
+change pending final review of the events and publication in
+NWS Storm Data.
+
+
+$$
+
+MFL
+
+
+
+460 
+NOUS42 KMFL 120205 AAB
+PNSMFL
+FLZ063-066>075-168-172>174-121415-
+
+Public Information Statement...UPDATED
+National Weather Service Miami FL
+1005 PM EDT Fri Oct 11 2024
+
+...NWS Damage Survey for Hurricane Milton Tornado Event - Update #2...
+
+.Update...New Data for Glades, Hendry, and eastern Collier Tornadoes. 
+
+.Sarasota Colony-Lakeport/Brighton Tornado...
+
+Rating:                 EF-3
+Estimated Peak Wind:    140 mph
+Path Length /statute/:  9.1 miles
+Path Width /maximum/:   200 yards
+Fatalities:             0
+Injuries:               3
+
+Start Date:             10/09/2024
+Start Time:             230 PM EDT 
+Start Location:         7 NNE Moore Haven, Glades County, FL 
+Start Lat/Lon:          26.91 / -81.05
+
+End Date:               10/09/2024
+End Time:               249 PM EDT
+End Location:           1 WNW Brighton Seminole Village, Glades County, FL
+End Lat/Lon:            27.08 / -81.08
+
+Survey Summary: This was a violent EF-3 tornado that at peak 
+produced an estimated 140 mph wind in the Sarasota Colony
+neighborhood of Glades County.
+
+The earliest images of this tornado were captured
+over the western Lake Okeechobee littoral shelf from the Harney
+Pond WeatherSTEM camera around 230 PM EDT. The debris from the 
+littoral shelf and associated vegetation was lofted in the air 
+producing a tornadic debris signature detectable by the distant 
+Miami radar by 235 PM EDT. 
+
+The first observed property damage attributable to this tornado 
+was in the Sarasota Colony neighborhood of Lakeport where the 
+tornado demolished the second story dwellings of three well-built 
+homes and then proceeded to cross Florida State Road 78 into the 
+Fishermans Lane neighborhood where it destroyed the roofs and 
+broke windows of 1920s-era Florida homes, lofted and tossed 
+several manufactured homes and travel trailers, flipped a Ford 
+Focus station wagon, and deposited debris over two blocks from 
+their original location into the bottom of a retention pond behind
+the neighborhood. One manufactured home chasis was observed 
+wrapped 15 to 20 feet above the ground around a hardwood tree 
+located across the street from its original location with the 
+contents of the home located in the pond almost 200 yards 
+downstream. Three residents were injured while taking shelter in
+their homes. Damage from multiple vorticies was observed at this
+location including one swath that reached EF-1 intensity to the 
+east of the main EF-3 damage path.
+
+The tornado then proceeded north-northwest to the east of the 
+Harney Pond Canal into the Brighton Seminole Indian Reservation. A
+tornadic debris signature was detectable on Miami radar at 248 PM
+EDT as the tornado entered the southern limits of the reservation.
+As the tornado continued NNW, it damaged trees and pulled metal 
+panels from roofing of assorted outbuildings from different 
+homesteads on the south side of the reservation. The tornado 
+entered the Brighton Seminole Village causing tree and chickee hut 
+roof damage in the Knotts Landing neighborhood before moving into 
+the Sports Complex where it demolished the spectator and dugout 
+areas of some of the baseball fields. The tornado likely lifted 
+behind one of the baseball fields around 249 PM EDT. Miami radar 
+continue to detect a tornadic debris signature through 250 PM EDT 
+as the storm moved north along Reservation Road.
+
+NWS Miami would like to thank Glades County Emergency Management
+and the Seminole Tribe of Indians of Florida for their hospitality
+and assistance during the damage survey.
+
+.Miccosukee/Clewiston/Lakeport/Brighton Tornado...
+
+Rating:                 EF-1
+Estimated Peak Wind:    110 mph
+Path Length /statute/:  70.8 miles
+Path Width /maximum/:   300 yards
+Fatalities:             0
+Injuries:               0
+
+Start Date:             10/9/2024
+Start Time:             942 AM EDT
+Start Location:         4 SW Miccosukee Rest Area, Collier County, FL
+Start Lat/Lon:          26.12 / -80.88
+
+End Date:               10/9/2024
+End Time:               1202 PM EDT
+End Location:           3 WSW Brighton Seminole Village, Glades County, FL 
+End Lat/Lon:            27.06 / -81.11
+
+Survey Summary: 
+
+This tornado was first spotted southwest of the Miccosukee Rest
+Area on exit 49 along Interstate 75 just west of the Collier-
+Broward County line. Florida Department of Transportation traffic
+cameras and numerous public videos showed the progress of a large
+tornado across Interstate 75 and north-northwestward over rural
+portions of eastern Collier County to the west of Snake Road. The
+tornado was spotted entering the Big Cypress Seminole Indian
+Reservation around 953 AM EDT. A video of a large tornado with 
+debris aloft crossing Josie Billie Highway just east of Big 
+Cypress Seminole Village at 959 AM EDT was also provided. 
+
+The supercell producing the tornado continued through rural 
+portions of eastern Hendry County until it entered the City of 
+Clewiston and moved across the area of the Sky Valley neighborhood
+around 1110 AM EDT. Public video and photo reports from the area 
+around Clewiston Walmart show a large tornado with debris crossing
+Sugarland Highway/US 27 near Sky Valley. The tornadic supercell 
+then entered sugarcane fields in southeastern Glades County 
+before reaching the western littoral shelf of Lake Okeechobee. 
+
+It proceeded across the western portions of the lake where it was
+captured by the Harney Pond WeatherSTEM camera between 1135 AM 
+EDT and 1144 AM EDT. The tornado emerged over the Herbert Hoover 
+Dike and entered the Miller Drive/Friendship Drive neighborhood 
+where it damaged several manufactured homes and vegation before 
+crossing Florida State Road 78 and advancing down Click Drive 
+where it damaged several manufactured homes, rolled an outbuilding
+off its foundation, and snapped a wooden utility pole at its 
+base. Click Drive appeared to have some of the highest damage 
+indicators attributable to building damage with this tornado 
+damage survey.
+
+The tornado proceeded into fields to the west of the Harney Pond
+Canal before entering the Brighton Seminole Indian Reservation.
+Residents reported seeing the tornado to the west of the Harney
+Pond Canal from the embankment as it crossed several cattle
+pastures before entering the Red Barn area to the west of Brighton
+Seminole Village. Several mature hardwood trees were uprooted or
+suffered a loss of their crowns along Red Barn Road. The tornado 
+likely dissipated as it crossed the canal or just after in the 
+pastures to the north.
+
+NWS Miami would like to thank the Florida Department of 
+Transportation, the Miccosukee Tribe of Indians of Florida, 
+Collier County Emergency Management, Hendry County Emergency 
+Management, the City of Clewiston, Glades County Emergency 
+Management and the Seminole Tribe of Indians of Florida for their 
+hospitality and assistance during the damage survey.
+
+.Wellington/Acreage/PBG/Jupiter Farms Tornado...
+
+Rating:                 EF-3
+Estimated peak wind:    140 mph
+Path length (statute):  21 miles
+Path width (maximum):   300 yards
+Fatalities:             0
+Injuries:               7
+
+Start date:             10/09/2024 
+Start time:             451 PM EDT
+Start location:         Wellington, Palm Beach County, FL
+Start lat/lon:          26.6396 / -80.3043
+
+End date:               10/09/2024
+End time:               521 PM EDT
+End location:           6 W Jupiter, Palm Beach County, FL
+End_lat/lon:            26.9312 / -80.1915
+
+Survey summary: 
+
+Considerable structural damage was observed over a large portion
+of this tornado track. The southernmost point of this survey is 
+marked by a double wide mobile home on Deer Path Lane in the Rustic
+Ranches section of Wellington which was left practically 
+unrecognizable, and rated an EF-3. The track continued NNE over the 
+far western portion of Wellington, across the Lakefield West, 
+Meadowwood, and Binks Forest communities, where EF-1 and EF-2 damage
+was noted to homes and trees.
+
+The tornado crossed Southern Boulevard/US 98, then continued NNE
+across Loxahatchee Groves and The Acreage where EF-1 to isolated
+EF-2 damage was observed to homes, trees, and outbuildings. 
+
+The tornado intensified as it approached Northlake Boulevard on the 
+north end of The Acreage, then did its most considerable damage in
+the Avenir community of Palm Beach Gardens. At the beginning of this
+community, a large portion of the roof collapsed of a Publix 
+supermarket building which was recently completed and set to open in
+the near future, and rated EF-3. Considerable structural damage rated 
+EF-2 and EF-3, including heavy roof damage, impact-resistance windows 
+which were shattered and blown in, vehicles lifted and moved at least
+100 yards, was observed in the communities in Avenir. 
+
+The tornado then moved just west but very close to North Palm Beach 
+County General Aviation Airport, where a wind gust of 92 mph from 
+the SSW was measured at the AWOS around 510 PM. The tornado crossed
+Bee Line Highway/SR 710 where tree damage was observed, then entered
+Jupiter Farms where EF-1 to EF-2 damage was noted to trees, 
+outbuildings, and power poles. Footage from a Florida Turnpike highway
+camera showed the tornado moving north past Jupiter Farms to the
+Martin County line, where it likely continued into Martin County.
+
+Path width was 200-300 yards for much of the track, with only a few
+places where the circulation may have briefly lifted. 
+
+The radar circulation of the tornado was seen well south of 
+Wellington in the Loxahatchee National Wildlife Refuge, and a video
+of the tornado was captured in this area from western Delray Beach.
+The track length indicated here is only for the surveyed portion, and
+if the track is extended southward to the refuge where the radar 
+circulation suggested the tornado may have begun, then it would have
+exceeded 30 miles.  
+
+NWS Miami would like to thank the Palm Beach County Division of
+Emergency Management, Palm Beach County Sheriff's Office, and
+Palm Beach Gardens PD for their assistance in providing data and
+ground survey access. 
+
+&&
+
+EF Scale: The Enhanced Fujita Scale classifies tornadoes into the
+following categories:
+
+EF0.....65 to 85 mph
+EF1.....86 to 110 mph
+EF2.....111 to 135 mph
+EF3.....136 to 165 mph
+EF4.....166 to 200 mph
+EF5.....>200 mph
+
+NOTE:
+The information in this statement is preliminary and subject to
+change pending final review of the events and publication in NWS
+Storm Data.
+
+$$
+
+
+
+647 
+NOUS42 KMFL 112328 AAA
+PNSMFL
+FLZ063-066>075-168-172>174-121800-
+
+Public Information Statement...UPDATED
+National Weather Service Miami FL
+728 PM EDT Fri Oct 11 2024
+
+...NWS Damage Survey for Hurricane Milton Event...
+
+.UPDATE...New Data on Wellington/Acreage/PBG/Jupiter Farms Tornado
+
+.Wellington/Acreage/PBG/Jupiter Farms Tornado...
+
+Rating:                 EF-3
+Estimated peak wind:    140 mph
+Path length (statute):  21 miles
+Path width (maximum):   300 yards
+Fatalities:             0
+Injuries:               7
+
+Start date:             10/09/2024 
+Start time:             451 PM EDT
+Start location:         Wellington, FL
+Start lat/lon:          26.6396/-80.3043
+
+End date:               10/09/2024
+End time:               521 PM EDT
+End location:           6 W Jupiter, FL
+End_lat/lon:            26.9312/-80.1915
+
+Survey summary: 
+
+Considerable structural damage was observed over a large portion
+of this tornado track. The southernmost point of this survey is 
+marked by a double wide mobile home on Deer Path Lane in the Rustic
+Ranches section of Wellington which was left practically 
+unrecognizable, and rated an EF-3. The track continued NNE over the 
+far western portion of Wellington, across the Lakefield West, 
+Meadowwood, and Binks Forest communities, where EF-1 and EF-2 damage
+was noted to homes and trees.
+
+The tornado crossed Southern Boulevard/US 98, then continued NNE
+across Loxahatchee Groves and The Acreage where EF-1 to isolated
+EF-2 damage was observed to homes, trees, and outbuildings. 
+
+The tornado intensified as it approached Northlake Boulevard on the 
+north end of The Acreage, then did its most considerable damage in
+the Avenir community of Palm Beach Gardens. At the beginning of this
+community, a large portion of the roof collapsed of a Publix 
+supermarket building which was recently completed and set to open in
+the near future, and rated EF-3. Considerable structural damage rated 
+EF-2 and EF-3, including heavy roof damage, impact-resistance windows 
+which were shattered and blown in, vehicles lifted and moved at least
+100 yards, was observed in the communities in Avenir. 
+
+The tornado then moved just west but very close to North Palm Beach 
+County General Aviation Airport, where a wind gust of 92 mph from 
+the SSW was measured at the AWOS around 510 PM. The tornado crossed
+Bee Line Highway/SR 710 where tree damage was observed, then entered
+Jupiter Farms where EF-1 to EF-2 damage was noted to trees, 
+outbuildings, and power poles. Footage from a Florida Turnpike highway
+camera showed the tornado moving north past Jupiter Farms to the
+Martin County line, where it likely continued into Martin County.
+
+Path width was 200-300 yards for much of the track, with only a few
+places where the circulation may have briefly lifted. 
+
+The radar circulation of the tornado was seen well south of 
+Wellington in the Loxahatchee National Wildlife Refuge, and a video
+of the tornado was captured in this area from western Delray Beach.
+The track length indicated here is only for the surveyed portion, and
+if the track is extended southward to the refuge where the radar 
+circulation suggested the tornado may have begun, then it would have
+exceeded 30 miles.  
+
+NWS Miami would like to thank the Palm Beach County Division of
+Emergency Management, Palm Beach County Sheriff's Office, and
+Palm Beach Gardens PD for their assistance in providing data and
+ground survey access. 
+
+EF scale: The Enhanced Fujita scale classifies tornadoes into the
+following categories.
+
+EF0...weak......65 to 85 mph
+EF1...weak......86 to 110 mph
+EF2...strong....111 to 135 mph
+EF3...strong....136 to 165 mph
+EF4...violent...166 to 200 mph
+EF5...violent...>200 mph*
+
+Note:
+The information in this statement is preliminary and subject to
+change pending final review of the event and publication in
+NWS Storm Data. 
+
+$$
+
+Molleda/Hadi/Harrigan/Fisher/Redman
+
+
+
+517 
+NOUS42 KMFL 102002
+PNSMFL
+FLZ063-066>075-168-172>174-110815-
+
+Public Information Statement
+National Weather Service Miami FL
+402 PM EDT Thu Oct 10 2024
+
+
+...NWS Damage Survey for Hurricane Milton Tornado Event...
+
+.Overview...
+
+Several strong tornadoes developed within rainbands associated 
+with Hurricane Milton. This is the first and very preliminary 
+EF rating for one of those tornadoes.
+
+.Milton Palm Beach Gardens...
+
+Rating:                 EF3
+Estimated Peak Wind:    140 mph
+Path Length /statute/:  N/A
+Path Width /maximum/:   N/A
+Fatalities:             N/A
+Injuries:               N/A
+
+Start Date:             10/09/2024
+Start Time:             N/A
+Start Location:         N/A
+Start Lat/Lon:          N/A
+
+End Date:               10/09/2024
+End Time:               N/A
+End Location:           N/A
+End Lat/Lon:            N/A
+
+Survey Summary:
+
+Considerable structural damage was observed in the Avenir community
+in Palm Beach Gardens. The damage was observed on brand new, well-built
+homes and included segments of concrete block walls missing and large
+sections of roof removed. This tornado had a relatively long track and
+this preliminary rating was based on just one neighborhood which was also 
+one of the hardest hit. This will likely require a multi-day survey to
+obtain the complete picture and assign a final rating. A follow-up PNS 
+will be sent with each update.
+
+&&
+
+EF Scale: The Enhanced Fujita Scale classifies tornadoes into the
+following categories:
+
+EF0.....65 to 85 mph
+EF1.....86 to 110 mph
+EF2.....111 to 135 mph
+EF3.....136 to 165 mph
+EF4.....166 to 200 mph
+EF5.....>200 mph
+
+NOTE:
+The information in this statement is preliminary and subject to
+change pending final review of the event and publication in
+NWS Storm Data.
+
+
+$$
+
+
+
+977 
+NOUS42 KMFL 101710
+PNSMFL
+FLZ063-066>075-168-172>174-110515-
+
+Public Information Statement
+National Weather Service Miami FL
+110 PM EDT Thu Oct 10 2024
+
+...NWS Meteorologists Currently Surveying Storm Damage Near
+Lakeport in Glades County Florida...
+
+The National Weather Service office in Miami FL is currently
+conducting a storm survey for the area near Lakeport in Glades
+County Florida. The survey is in relation to the severe
+thunderstorms that moved through the area on October 9th
+associated with Hurricane Milton.
+
+A final assessment including results of the survey are expected
+to be completed and transmitted via a Public Information
+Statement by the weekend.
+
+The storm survey information will also be available on our
+website at http://www.weather.gov/southflorida
+
+$$
+
+
+
+127 
+NOUS42 KMFL 101709
+PNSMFL
+FLZ063-066>075-168-172>174-110515-
+
+Public Information Statement
+National Weather Service Miami FL
+109 PM EDT Thu Oct 10 2024
+
+...NWS Meteorologists Currently Surveying Storm Damage Near
+Loxahatchee in Palm Beach County Florida...
+
+The National Weather Service office in Miami FL is currently
+conducting a storm survey for the area near Loxahatchee in Palm
+Beach County Florida. The survey is in relation to the severe
+thunderstorms that moved through the area on October 9th
+associated with Hurricane Milton.
+
+A final assessment including results of the survey are expected
+to be completed and transmitted via a Public Information
+Statement by the weekend.
+
+The storm survey information will also be available on our
+website at http://www.weather.gov/southflorida
+
+$$
+
+
+
+959 
+NOUS42 KMFL 101443
+PNSMFL
+FLZ063-066>075-168-172>174-102332-
+
+Public Information Statement National Weather Service Miami FL 10:43 
+AM EDT Thu Oct 10 2024
+
+...ADDITIONAL REPORTS ADDED...
+...PRELIMINARY HIGHEST WIND GUST REPORTS IN SOUTH FLORIDA...
+...TIME PERIOD 8 PM TUESDAY 10/7 TO 8 AM THURSDAY 10/9...
+
+Location                     Speed     Time/Date       Lat/Lon 
+       
+
+...Florida...
+
+...Broward County... Fswn Ft. Laud-Hollywood      52 MPH    0750 PM 
+10/09   26.08N/80.14W 
+       
+Ft Lauderdale Exec Airport   52 MPH    0117 AM 10/10   26.20N/80.18W 
+       
+Pompano Beach Airpark        51 MPH    1251 AM 10/10   26.25N/80.12W 
+       
+Hollywood North Perry Apt    50 MPH    0514 PM 10/09   26.00N/80.23W 
+              
+Ft. Laud/Hollywood Airport   46 MPH    0705 PM 10/09   26.11N/80.11W 
+       
+Coral Springs Public Safety  45 MPH    0140 AM 10/10   26.26N/80.27W 
+       
+Miramar                      45 MPH    0315 PM 10/09   25.97N/80.31W 
+       
+Pembroke Pines               44 MPH    0115 PM 10/09   26.02N/80.40W 
+       
+Tamarac                      44 MPH    0111 AM 10/10   26.19N/80.30W 
+       
+Pine Crest School            42 MPH    0540 PM 10/09   26.20N/80.12W 
+       
+Dania Beach                  42 MPH    0657 PM 10/09   26.06N/80.11W 
+       
+Coral Springs Fd Fire Statio 41 MPH    0210 AM 10/10   26.24N/80.28W 
+       
+Fswn Coconut Creek           41 MPH    0220 AM 10/10   26.28N/80.20W 
+       
+City Of Sunrise Fire Station 40 MPH    0210 AM 10/10   26.15N/80.24W 
+       
+Port Everglades South        40 MPH    0816 PM 10/09   26.06N/80.13W 
+      
+Coral Springs Fd Fire Statio 38 MPH    0220 AM 10/10   26.29N/80.22W 
+       
+3 S Weston                   38 MPH    0330 PM 10/09   26.07N/80.40W 
+      
+Coconut Creek                37 MPH    1100 PM 10/09   26.26N/80.19W 
+       
+Davie                        36 MPH    0525 PM 10/09   26.10N/80.28W 
+       
+1 E Sunrise                  36 MPH    0455 PM 10/09   26.17N/80.25W 
+      
+
+...Collier County... Fswn Collier County Eoc      59 MPH    1140 PM 
+10/09   26.11N/81.69W 
+       
+Immokalee                    58 MPH    1115 PM 10/09   26.43N/81.40W 
+       
+Naples Zoo                   56 MPH    1126 PM 10/09   26.17N/81.79W 
+       
+1 ENE Naples                 54 MPH    1035 PM 10/09   26.15N/81.78W 
+       
+1 E Bonita Shores            53 MPH    1000 PM 10/09   26.32N/81.82W 
+       
+Ave Maria                    53 MPH    1155 PM 10/09   26.30N/81.45W 
+       
+Capri                        53 MPH    1025 PM 10/09   26.04N/81.70W 
+       
+Ochopee Raws                 50 MPH    0203 PM 10/09   25.90N/81.32W 
+      
+Fswn Collier Everglades Airp 48 MPH    0550 PM 10/09   25.85N/81.39W 
+       
+Panther Wildlife Refuge      45 MPH    0211 PM 10/09   26.17N/81.36W 
+       
+1 NW Immokalee               44 MPH    1055 PM 10/09   26.44N/81.46W 
+       
+Fpr Wgcu Rookery Bay         43 MPH    1110 PM 10/09   26.05N/81.70W 
+       
+Miles City Raws              42 MPH    1045 PM 10/09   26.25N/81.30W 
+       
+Raccoon Point Raws           39 MPH    1022 PM 10/09   25.98N/80.90W 
+             North Palm Beach Airport     92 MPH    0510 PM 10/09 
+26.85N/80.22W Honeymoon Raws               38 MPH    1045 PM 10/09 
+26.19N/81.07W 
+       
+Oasis Ranger Station         37 MPH    0937 PM 10/09   25.86N/81.03W 
+       
+      
+...Glades County... Fswn Glades Eoc              59 MPH    0220 AM 
+10/10   26.84N/81.12W 
+       
+Fswn Glades Muse Ems 3       58 MPH    0150 AM 10/10   26.80N/81.43W 
+       
+Fswn Glades Alvin Ward Park  56 MPH    0140 AM 10/10   26.84N/81.08W 
+       
+Fswn Glades Buckhead Ridge   49 MPH    1100 PM 10/09   27.14N/80.88W 
+       
+Brighton                     43 MPH    1232 AM 10/10   27.12N/81.08W 
+       
+Fswn Glades Palmdale         38 MPH    0300 AM 10/10   26.94N/81.31W 
+       
+       
+...Hendry County...
+
+Clewiston FAWN               72 MPH    0215 AM 10/10   26.74N/81.05W 
+
+Airglades Airport            47 MPH    0835 PM 10/09   26.73N/81.05W 
+       
+
+...Miami-Dade County... Turkey Point                 55 MPH    0523 
+PM 10/09   25.43N/80.35W 
+       
+Miami-Tamiami Executive Apt  53 MPH    0507 PM 10/09   25.65N/80.43W 
+       
+Opa Locka Airport            52 MPH    0356 PM 10/09   25.92N/80.28W 
+       
+Fswn MDC Homestead           51 MPH    0430 PM 10/09   25.47N/80.47W 
+       
+Fswn MDC Hialeah             49 MPH    1240 AM 10/10   25.86N/80.32W 
+       
+Fswn MDC Downtown            48 MPH    0820 PM 10/09   25.78N/80.19W 
+       
+Chekika                      44 MPH    0630 PM 10/09   25.63N/80.58W 
+       
+North Miami                  44 MPH    1236 AM 10/10   25.91N/80.16W 
+       
+Homestead Air Reserve Base   43 MPH    0420 PM 10/09   25.47N/80.37W 
+       
+Fswn MDC North               42 MPH    0830 PM 10/09   25.88N/80.25W 
+       
+University of Miami          41 MPH    0930 PM 10/09   25.72N/80.28W 
+       
+Cache/Everglades NP          40 MPH    0530 PM 10/09   25.39N/80.68W 
+       
+Doral/Medley                 40 MPH    1219 AM 10/10   25.86N/80.37W 
+      
+    
+...Palm Beach County... North Palm Beach Airport     92 MPH    0510 
+PM 10/09   26.85N/80.22W 
+       
+North Palm Beach Airport     92 MPH    0510 PM 10/09   26.85N/80.22W 
+
+Palm Beach International Apt 72 MPH    0404 AM 10/10   26.68N/80.10W 
+Wellington                   68 MPH    0200 AM 10/10   26.68N/80.30W 
+
+Oakes Substation Jupiter     59 MPH    0213 AM 10/10   26.91N/80.06W 
+Pahokee                      57 MPH    0314 AM 10/10   26.80N/80.70W 
+
+Lantana Palm Beach Park Apt  56 MPH    0215 AM 10/10   26.60N/80.08W 
+
+Mangonia Park                56 MPH    0458 AM 10/10   26.76N/80.07W 
+
+Royal Palm Beach             49 MPH    1254 AM 10/10   26.80N/80.31W 
+
+Boca Raton                   46 MPH    0953 PM 10/09   26.38N/80.10W 
+
+Fpr Wxel South Florida Pbs   44 MPH    0230 AM 10/10   26.49N/80.09W 
+
+Jupiter                      44 MPH    0319 AM 10/10   26.97N/80.10W 
+
+Fswn Delray Beach Fire Hq    43 MPH    0150 AM 10/10   26.46N/80.08W 
+
+1 SSW Belle Glade            42 MPH    0203 AM 10/10   26.67N/80.68W 
+Lake Worth                   42 MPH    0225 AM 10/10   26.60N/80.18W 
+Boynton Beach                39 MPH    0426 AM 10/10   26.53N/80.08W 
+     
+...Maritime Stations... Fswn Lake Okeechobee Lock 7  66 MPH    1220 
+AM 10/10   27.20N/80.83W 
+       
+Juno Beach Pier              61 MPH    0220 AM 10/10   26.89N/80.06W 
+       
+Fswn Glades Harney Pond Park 58 MPH    0140 AM 10/10   26.99N/81.07W 
+       
+Government Cut               56 MPH    0837 PM 10/09   25.75N/80.10W 
+       
+Fswn Delray Beach North      54 MPH    0620 PM 10/09   26.47N/80.06W 
+       
+Lake Worth Pier              53 MPH    1242 AM 10/10   26.61N/80.03W 
+       
+Port Everglades              50 MPH    1233 AM 10/10   26.09N/80.11W 
+       
+2 NE Dania Beach             49 MPH    0330 PM 10/09   26.08N/80.10W 
+       
+Hillsboro Inlet              49 MPH    0555 PM 10/09   26.26N/80.08W 
+       
+Dania Pier                   48 MPH    0517 PM 10/09   26.06N/80.11W 
+       
+Fswn Delray Beach Atlantic   45 MPH    0540 PM 10/09   26.44N/80.06W 
+       
+Biscayne Bay Light 20        45 MPH    0637 PM 10/09   25.66N/80.19W 
+       
+Boynton Beach                44 MPH    0136 AM 10/10   26.55N/80.05W 
+       
+Dodge Island                 43 MPH    0411 PM 10/09   25.77N/80.15W 
+       
+Virginia Key                 41 MPH    0830 PM 10/09   25.73N/80.16W 
+               
+Biscayne Bay Harbor Pilots   40 MPH    0641 PM 10/09   25.77N/80.15W 
+       
+Fswn Sunny Isles Beach       39 MPH    1240 AM 10/10   25.94N/80.12W 
+       
+Morningside Park             38 MPH    0416 PM 10/09   25.82N/80.18W 
+       
+
+&&
+
+**METADATA** :10/10/2024,1233 AM, FL, Broward, Hollywood, , , 
+26.0195, -80.19, PKGUST, 35, mph, CWOP, Peak Wind Gust, 
+:10/09/2024,0525 PM, FL, Broward, Davie, , , 26.1049, -80.2811, 
+PKGUST, 36, mph, DAVIS, Peak Wind Gust, :10/09/2024,0455 PM, FL, 
+Broward, 1 E Sunrise, , , 26.1664, -80.2528, PKGUST, 36, mph, 
+URBANET, Peak Wind Gust, :10/10/2024,1245 AM, FL, Broward, Davie, , 
+, 26.0732, -80.297, PKGUST, 36, mph, CWOP, Peak Wind Gust, 
+:10/09/2024,0700 PM, FL, Broward, BSO Port Everglades Port 
+Everglades, FL, , , 26.0833, -80.1197, PKGUST, 36, mph, URBANET, 
+Peak Wind Gust, :10/09/2024,0505 PM, FL, Broward, Tamarac, , , 
+26.2131, -80.2714, PKGUST, 37, mph, URBANET, Peak Wind Gust, 
+:10/10/2024,0114 AM, FL, Broward, City of Tamarac Tamarac, FL, , , 
+26.1967, -80.2878, PKGUST, 37, mph, URBANET, Peak Wind Gust, 
+:10/09/2024,1100 PM, FL, Broward, Coconut Creek, , , 26.2586, -
+80.1939, PKGUST, 37, mph, URBANET, Peak Wind Gust, :10/10/2024,0220 
+AM, FL, Broward, Coral Springs Fd Fire Station 43, , , 26.286, -
+80.2198, PKGUST, 38, mph, MESOWEST, Peak Wind Gust, :10/09/2024,0330 
+PM, FL, Broward, 3 S Weston, , , 26.0656, -80.3981, PKGUST, 38, mph, 
+URBANET, Peak Wind Gust, :10/10/2024,0150 AM, FL, Broward, Bemus 
+Point, , , 26.2153, -80.2827, PKGUST, 39, mph, CWOP, Peak Wind Gust, 
+:10/10/2024,0210 AM, FL, Broward, City Of Sunrise Fire Station 39, , 
+, 26.1545, -80.24, PKGUST, 40, mph, MESOWEST, Peak Wind Gust, 
+:10/09/2024,0816 PM, FL, Broward, Port Everglades South, , , 
+26.0614, -80.126, PKGUST, 40, mph, WXFLOW, Peak Wind Gust, 
+:10/10/2024,0210 AM, FL, Broward, Coral Springs Fd Fire Station 95, 
+, , 26.2359, -80.2795, PKGUST, 41, mph, MESOWEST, Peak Wind Gust, 
+:10/10/2024,0220 AM, FL, Broward, Fswn Coconut Creek, , , 26.2842, -
+80.1982, PKGUST, 41, mph, MESOWEST, Peak Wind Gust, :10/09/2024,0540 
+PM, FL, Broward, Pine Crest School, , , 26.2046, -80.124, PKGUST, 
+42, mph, MESOWEST, Peak Wind Gust, :10/09/2024,0657 PM, FL, Broward, 
+Navsea 1, , , 26.0553, -80.1129, PKGUST, 42, mph, MESOWEST, Peak 
+Wind Gust, :10/09/2024,0115 PM, FL, Broward, Pembroke Pines, , , 
+26.0152, -80.4048, PKGUST, 44, mph, CWOP, Peak Wind Gust, 
+:10/10/2024,0111 AM, FL, Broward, Conservation, , , 26.194, -
+80.2975, PKGUST, 44, mph, WXFLOW, Peak Wind Gust, :10/10/2024,0140 
+AM, FL, Broward, Coral Springs Public Safety Buil, , , 26.2641, -
+80.2651, PKGUST, 45, mph, MESOWEST, Peak Wind Gust, :10/09/2024,0315 
+PM, FL, Broward, Flamingo, , , 25.9667, -80.3097, PKGUST, 45, mph, 
+WXFLOW, Peak Wind Gust, :10/09/2024,0705 PM, FL, Broward, Fort 
+Lauderdale, , , 26.1092, -80.1084, PKGUST, 46, mph, DAVIS, Peak Wind 
+Gust, :10/09/2024,0408 PM, FL, Broward, Fort Lauderdale/hollywood 
+Intl Airport, , , 26.0667, -80.15, PKGUST, 47, mph, ASOS, Peak Wind 
+Gust, :10/09/2024,0514 PM, FL, Broward, Pembroke Pines, , , 26, -
+80.2333, PKGUST, 49, mph, ASOS, Peak Wind Gust, :10/10/2024,1251 AM, 
+FL, Broward, Pompano Beach, , , 26.25, -80.1167, PKGUST, 51, mph, 
+ASOS, Peak Wind Gust, :10/09/2024,0750 PM, FL, Broward, Fswn Ft. 
+Lauderdale-Hollywood In, , , 26.08, -80.1416, PKGUST, 52, mph, 
+MESOWEST, Peak Wind Gust, :10/10/2024,0117 AM, FL, Broward, Ft 
+Lauderd Exec, , , 26.2, -80.1833, PKGUST, 52, mph, ASOS, Peak Wind 
+Gust, :10/09/2024,1115 PM, FL, Collier, Bonita Springs, , , 26.3103, 
+-81.7594, PKGUST, 35, mph, CWOP, Peak Wind Gust, :10/09/2024,0711 
+PM, FL, Collier, Panther West, , , 26.1717, -81.4789, PKGUST, 35, 
+mph, RAWS, Peak Wind Gust, :10/09/2024,0937 PM, FL, Collier, Oasis, 
+, , 25.8604, -81.033, PKGUST, 37, mph, RAWS, Peak Wind Gust, 
+:10/09/2024,0705 PM, FL, Collier, Naples, , , 26.1, -81.7, PKGUST, 
+38, mph, DAVIS, Peak Wind Gust, :10/09/2024,1045 PM, FL, Collier, 
+Honeymoon Raws, , , 26.1948, -81.0668, PKGUST, 38, mph, RAWS, Peak 
+Wind Gust, :10/09/2024,1022 PM, FL, Collier, Raccoon Point Raws, , , 
+25.9781, -80.9041, PKGUST, 39, mph, RAWS, Peak Wind Gust, 
+:10/09/2024,1045 PM, FL, Collier, Miles City Raws, , , 26.2483, -
+81.2953, PKGUST, 42, mph, RAWS, Peak Wind Gust, :10/09/2024,1110 PM, 
+FL, Collier, Fpr Wgcu Rookery Bay, , , 26.05, -81.701, PKGUST, 43, 
+mph, MESOWEST, Peak Wind Gust, :10/09/2024,1055 PM, FL, Collier, 1 
+NW Immokalee, , , 26.4417, -81.4592, PKGUST, 44, mph, AWS, Peak Wind 
+Gust, :10/09/2024,0211 PM, FL, Collier, Panther East, , , 26.1686, -
+81.3644, PKGUST, 45, mph, RAWS, Peak Wind Gust, :10/09/2024,0550 PM, 
+FL, Collier, Fswn Collier Everglades Airpark, , , 25.849, -81.3897, 
+PKGUST, 48, mph, MESOWEST, Peak Wind Gust, :10/09/2024,0111 PM, FL, 
+Collier, NAPLES, , , 26.056, -81.662, PKGUST, 49, mph, CWOP, Peak 
+Wind Gust, :10/09/2024,0203 PM, FL, Collier, Ochopee Raws, , , 
+25.8987, -81.3198, PKGUST, 50, mph, RAWS, Peak Wind Gust, 
+:10/09/2024,1000 PM, FL, Collier, 1 E Bonita Shores, , , 26.315, -
+81.8158, PKGUST, 53, mph, AWS, Peak Wind Gust, :10/09/2024,1155 PM, 
+FL, Collier, Ave Maria, , , 26.2984, -81.4466, PKGUST, 53, mph, 
+DAVIS, Peak Wind Gust, :10/09/2024,1025 PM, FL, Collier, Capri, , , 
+26.037, -81.7008, PKGUST, 53, mph, WXFLOW, Peak Wind Gust, 
+:10/09/2024,1035 PM, FL, Collier, 1 ENE Naples, , , 26.1489, -
+81.7761, PKGUST, 54, mph, AWS, Peak Wind Gust, :10/09/2024,1126 PM, 
+FL, Collier, Naples Zoo, , , 26.1675, -81.7904, PKGUST, 56, mph, 
+WXFLOW, Peak Wind Gust, :10/09/2024,1115 PM, FL, Collier, Immokalee, 
+, , 26.4333, -81.4, PKGUST, 58, mph, AWOS, Peak Wind Gust, 
+:10/09/2024,1140 PM, FL, Collier, Fswn Collier County Eoc, , , 
+26.1053, -81.6947, PKGUST, 59, mph, MESOWEST, Peak Wind Gust, 
+:10/10/2024,0300 AM, FL, Glades, Fswn Glades Palmdale Community C, , 
+, 26.9434, -81.3087, PKGUST, 38, mph, MESOWEST, Peak Wind Gust, 
+:10/09/2024,1138 PM, FL, Glades, Sfwmd 16, , , 26.7901, -81.2049, 
+PKGUST, 38, mph, MESOWEST, Peak Wind Gust, :10/10/2024,1232 AM, FL, 
+Glades, Brighton, , , 27.1196, -81.0827, PKGUST, 43, mph, RAWS, Peak 
+Wind Gust, :10/09/2024,1100 PM, FL, Glades, Fswn Glades Buckhead 
+Ridge, , , 27.1437, -80.8767, PKGUST, 49, mph, MESOWEST, Peak Wind 
+Gust, :10/10/2024,0140 AM, FL, Glades, Fswn Glades Alvin Ward Park, 
+, , 26.8395, -81.0813, PKGUST, 56, mph, MESOWEST, Peak Wind Gust, 
+:10/10/2024,0150 AM, FL, Glades, Fswn Glades Muse Ems 3, , , 
+26.7983, -81.4261, PKGUST, 58, mph, MESOWEST, Peak Wind Gust, 
+:10/10/2024,0220 AM, FL, Glades, Fswn Glades Eoc, , , 26.8409, -
+81.1235, PKGUST, 59, mph, MESOWEST, Peak Wind Gust, :10/09/2024,0835 
+PM, FL, Hendry, 7 SSE Moore Haven, , , 26.7333, -81.05, PKGUST, 47, 
+mph, AWOS, Peak Wind Gust, :10/09/2024,0435 PM, FL, Miami-Dade, 
+Hometead, , , 25.5, -80.5, PKGUST, 35, mph, DAVIS, Peak Wind Gust, 
+:10/10/2024,0520 AM, FL, Miami-Dade, Fswn Miami Dade College West 
+Cam, , , 25.8084, -80.3848, PKGUST, 36, mph, MESOWEST, Peak Wind 
+Gust, :10/09/2024,0859 PM, FL, Miami-Dade, 1 W Miami, , , 25.774, -
+80.2277, PKGUST, 36, mph, AWS, Peak Wind Gust, :10/09/2024,0530 PM, 
+FL, Miami-Dade, Cache, , , 25.3903, -80.6803, PKGUST, 40, mph, RAWS, 
+Peak Wind Gust, :10/10/2024,1219 AM, FL, Miami-Dade, Urban, , , 
+25.855, -80.3687, PKGUST, 40, mph, WXFLOW, Peak Wind Gust, 
+:10/09/2024,0930 PM, FL, Miami-Dade, 1.0 SW Coral Gables 
+(WEATHERSTEM), , , 25.718, -80.2777, PKGUST, 41, mph, MESOWEST, Peak 
+Wind Gust, :10/09/2024,0740 PM, FL, Miami-Dade, 1.1 E South Miami 
+(WEATHERSTEM), , , 25.7144, -80.2824, PKGUST, 41, mph, MESOWEST, 
+Peak Wind Gust, :10/09/2024,0830 PM, FL, Miami-Dade, Fswn Miami Dade 
+College North Ca, , , 25.8778, -80.2457, PKGUST, 42, mph, MESOWEST, 
+Peak Wind Gust, :10/09/2024,0420 PM, FL, Miami-Dade, Homestead AFB, 
+, , 25.4667, -80.3667, PKGUST, 43, mph, AWOS, Peak Wind Gust, 
+:10/09/2024,0630 PM, FL, Miami-Dade, Chekika, , , 25.625, -80.5797, 
+PKGUST, 44, mph, RAWS, Peak Wind Gust, :10/10/2024,1236 AM, FL, 
+Miami-Dade, North Miami, , , 25.9092, -80.1605, PKGUST, 44, mph, 
+WXFLOW, Peak Wind Gust, :10/09/2024,0420 PM, FL, Miami-Dade, 1.6 NW 
+Miami (WEATHERSTEM), , , 25.7878, -80.216, PKGUST, 48, mph, 
+MESOWEST, Peak Wind Gust, :10/09/2024,0820 PM, FL, Miami-Dade, Fswn 
+Miami Dade College Wolfson, , , 25.7793, -80.1906, PKGUST, 48, mph, 
+MESOWEST, Peak Wind Gust, :10/10/2024,1240 AM, FL, Miami-Dade, Fswn 
+Miami Dade College Hialeah, , , 25.8641, -80.3192, PKGUST, 49, mph, 
+MESOWEST, Peak Wind Gust, :10/09/2024,0430 PM, FL, Miami-Dade, Fswn 
+Miami Dade College Homestea, , , 25.4748, -80.4735, PKGUST, 51, mph, 
+MESOWEST, Peak Wind Gust, :10/09/2024,0700 PM, FL, Miami-Dade, 
+Miami, , , 25.8, -80.2833, PKGUST, 51, mph, ASOS, Peak Wind Gust, 
+:10/09/2024,0356 PM, FL, Miami-Dade, Miami Opa Locka, , , 25.9167, -
+80.2833, PKGUST, 52, mph, ASOS, Peak Wind Gust, :10/09/2024,0507 PM, 
+FL, Miami-Dade, Miami Tamiami, , , 25.65, -80.4333, PKGUST, 53, mph, 
+ASOS, Peak Wind Gust, :10/09/2024,0523 PM, FL, Miami-Dade, Turkey 
+Point, , , 25.4339, -80.3453, PKGUST, 55, mph, WXFLOW, Peak Wind 
+Gust, :10/10/2024,0243 AM, FL, Palm Beach, Jupiter, , , 26.9428, -
+80.1047, PKGUST, 37, mph, AWS, Peak Wind Gust, :10/10/2024,0219 AM, 
+FL, Palm Beach, Palm Beach Gardens, , , 26.8256, -80.1011, PKGUST, 
+37, mph, AWS, Peak Wind Gust, :10/10/2024,0340 AM, FL, Palm Beach, 
+Fswn Delray Fire Station 115, , , 26.4382, -80.1138, PKGUST, 38, 
+mph, MESOWEST, Peak Wind Gust, :10/10/2024,0426 AM, FL, Palm Beach, 
+Boynton Beach, , , 26.5312, -80.0787, PKGUST, 39, mph, CWOP, Peak 
+Wind Gust, :10/10/2024,0228 AM, FL, Palm Beach, Sfwmd S14, , , 
+26.858, -80.4841, PKGUST, 39, mph, MESOWEST, Peak Wind Gust, 
+:10/10/2024,0138 AM, FL, Palm Beach, Boca Raton, , , 26.339, -
+80.208, PKGUST, 40, mph, CWOP, Peak Wind Gust, :10/10/2024,0245 AM, 
+FL, Palm Beach, West Palm Beach, , , 26.7873, -80.1409, PKGUST, 41, 
+mph, DAVIS, Peak Wind Gust, :10/10/2024,0309 AM, FL, Palm Beach, 
+Jupiter, , , 26.893, -80.068, PKGUST, 41, mph, CWOP, Peak Wind Gust, 
+:10/10/2024,0203 AM, FL, Palm Beach, 1 SSW Belle Glade, , , 26.6689, 
+-80.6806, PKGUST, 42, mph, AWS, Peak Wind Gust, :10/10/2024,0225 AM, 
+FL, Palm Beach, Lake Worth, , , 26.6037, -80.1768, PKGUST, 42, mph, 
+CWOP, Peak Wind Gust, :10/10/2024,0150 AM, FL, Palm Beach, Fswn 
+Delray Beach Fire Hq, , , 26.4621, -80.0786, PKGUST, 43, mph, 
+MESOWEST, Peak Wind Gust, :10/10/2024,0153 AM, FL, Palm Beach, 
+Jupiter, , , 26.9, -80.1, PKGUST, 43, mph, CWOP, Peak Wind Gust, 
+:10/10/2024,0230 AM, FL, Palm Beach, Fpr Wxel South Florida Pbs, , , 
+26.4935, -80.0906, PKGUST, 44, mph, MESOWEST, Peak Wind Gust, 
+:10/10/2024,0319 AM, FL, Palm Beach, Jupiter, , , 26.9675, -80.0974, 
+PKGUST, 44, mph, CWOP, Peak Wind Gust, :10/10/2024,0558 AM, FL, Palm 
+Beach, Boca Raton, , , 26.3714, -80.0852, PKGUST, 45, mph, WXFLOW, 
+Peak Wind Gust, :10/10/2024,0218 AM, FL, Palm Beach, West Palm 
+Beach, , , 26.6573, -80.1379, PKGUST, 45, mph, WXFLOW, Peak Wind 
+Gust, :10/09/2024,0953 PM, FL, Palm Beach, Boca Raton, , , 26.3833, -
+80.1, PKGUST, 46, mph, AWOS, Peak Wind Gust, :10/10/2024,0225 AM, 
+FL, Palm Beach, West Palm Beach, , , 26.7195, -80.1643, PKGUST, 47, 
+mph, CWOP, Peak Wind Gust, :10/10/2024,1254 AM, FL, Palm Beach, 
+Royal Palm Beach, , , 26.8033, -80.3068, PKGUST, 49, mph, CWOP, Peak 
+Wind Gust, :10/10/2024,0215 AM, FL, Palm Beach, Lantana Palm Bea, , 
+, 26.6, -80.0833, PKGUST, 56, mph, AWOS, Peak Wind Gust, 
+:10/10/2024,0458 AM, FL, Palm Beach, Mangonia Park, , , 26.7559, -
+80.0691, PKGUST, 56, mph, WXFLOW, Peak Wind Gust, :10/10/2024,0314 
+AM, FL, Palm Beach, Florida Usace S273, , , 26.7978, -80.6958, 
+PKGUST, 57, mph, MESOWEST, Peak Wind Gust, :10/10/2024,0213 AM, FL, 
+Palm Beach, Oakes Substation, , , 26.9116, -80.0634, PKGUST, 59, 
+mph, WXFLOW, Peak Wind Gust, :10/10/2024,0404 AM, FL, Palm Beach, 
+West Palm Beach, , , 26.6833, -80.1, PKGUST, 72, mph, ASOS, Peak 
+Wind Gust, :10/09/2024,0510 PM, FL, Palm Beach, North Palm Beach, , 
+, 26.85, -80.2167, PKGUST, 92, mph, AWOS, Peak Wind Gust,
+
+Observations are collected from a variety of sources with varying
+equipment and exposures. We thank all volunteer weather observers 
+for their dedication. Not all data listed are considered official.
+
+$$
+
+MFL
+
+
+
+664 
+NOUS42 KMFL 101432
+PNSMFL
+FLZ063-066>075-168-172>174-102332-
+
+Public Information Statement National Weather Service Miami FL 10:32 
+AM EDT Thu Oct 10 2024
+
+...ADDITIONAL REPORTS ADDED...
+...PRELIMINARY HIGHEST WIND GUST REPORTS IN SOUTH FLORIDA...
+...TIME PERIOD 8 PM TUESDAY 10/7 TO 8 AM THURSDAY 10/9...
+
+Location                     Speed     Time/Date       Lat/Lon 
+       
+
+...Florida...
+
+...Broward County... Fswn Ft. Laud-Hollywood      52 MPH    0750 PM 
+10/09   26.08N/80.14W 
+       
+Ft Lauderdale Exec Airport   52 MPH    0117 AM 10/10   26.20N/80.18W 
+       
+Pompano Beach Airpark        51 MPH    1251 AM 10/10   26.25N/80.12W 
+       
+Hollywood North Perry Apt    50 MPH    0514 PM 10/09   26.00N/80.23W 
+              
+Ft. Laud/Hollywood Airport   46 MPH    0705 PM 10/09   26.11N/80.11W 
+       
+Coral Springs Public Safety  45 MPH    0140 AM 10/10   26.26N/80.27W 
+       
+Miramar                      45 MPH    0315 PM 10/09   25.97N/80.31W 
+       
+Pembroke Pines               44 MPH    0115 PM 10/09   26.02N/80.40W 
+       
+Tamarac                      44 MPH    0111 AM 10/10   26.19N/80.30W 
+       
+Pine Crest School            42 MPH    0540 PM 10/09   26.20N/80.12W 
+       
+Dania Beach                  42 MPH    0657 PM 10/09   26.06N/80.11W 
+       
+Coral Springs Fd Fire Statio 41 MPH    0210 AM 10/10   26.24N/80.28W 
+       
+Fswn Coconut Creek           41 MPH    0220 AM 10/10   26.28N/80.20W 
+       
+City Of Sunrise Fire Station 40 MPH    0210 AM 10/10   26.15N/80.24W 
+       
+Port Everglades South        40 MPH    0816 PM 10/09   26.06N/80.13W 
+      
+Coral Springs Fd Fire Statio 38 MPH    0220 AM 10/10   26.29N/80.22W 
+       
+3 S Weston                   38 MPH    0330 PM 10/09   26.07N/80.40W 
+      
+Coconut Creek                37 MPH    1100 PM 10/09   26.26N/80.19W 
+       
+Davie                        36 MPH    0525 PM 10/09   26.10N/80.28W 
+       
+1 E Sunrise                  36 MPH    0455 PM 10/09   26.17N/80.25W 
+      
+
+...Collier County... Fswn Collier County Eoc      59 MPH    1140 PM 
+10/09   26.11N/81.69W 
+       
+Immokalee                    58 MPH    1115 PM 10/09   26.43N/81.40W 
+       
+Naples Zoo                   56 MPH    1126 PM 10/09   26.17N/81.79W 
+       
+1 ENE Naples                 54 MPH    1035 PM 10/09   26.15N/81.78W 
+       
+1 E Bonita Shores            53 MPH    1000 PM 10/09   26.32N/81.82W 
+       
+Ave Maria                    53 MPH    1155 PM 10/09   26.30N/81.45W 
+       
+Capri                        53 MPH    1025 PM 10/09   26.04N/81.70W 
+       
+Ochopee Raws                 50 MPH    0203 PM 10/09   25.90N/81.32W 
+      
+Fswn Collier Everglades Airp 48 MPH    0550 PM 10/09   25.85N/81.39W 
+       
+Panther Wildlife Refuge      45 MPH    0211 PM 10/09   26.17N/81.36W 
+       
+1 NW Immokalee               44 MPH    1055 PM 10/09   26.44N/81.46W 
+       
+Fpr Wgcu Rookery Bay         43 MPH    1110 PM 10/09   26.05N/81.70W 
+       
+Miles City Raws              42 MPH    1045 PM 10/09   26.25N/81.30W 
+       
+Raccoon Point Raws           39 MPH    1022 PM 10/09   25.98N/80.90W 
+             
+Honeymoon Raws               38 MPH    1045 PM 10/09   26.19N/81.07W 
+       
+Oasis Ranger Station         37 MPH    0937 PM 10/09   25.86N/81.03W 
+       
+      
+...Glades County... Fswn Glades Eoc              59 MPH    0220 AM 
+10/10   26.84N/81.12W 
+       
+Fswn Glades Muse Ems 3       58 MPH    0150 AM 10/10   26.80N/81.43W 
+       
+Fswn Glades Alvin Ward Park  56 MPH    0140 AM 10/10   26.84N/81.08W 
+       
+Fswn Glades Buckhead Ridge   49 MPH    1100 PM 10/09   27.14N/80.88W 
+       
+Brighton                     43 MPH    1232 AM 10/10   27.12N/81.08W 
+       
+Fswn Glades Palmdale         38 MPH    0300 AM 10/10   26.94N/81.31W 
+       
+       
+...Hendry County...
+
+Clewiston FAWN               72 MPH    0215 AM 10/10   26.74N/81.05W 
+Airglades Airport            47 MPH    0835 PM 10/09   26.73N/81.05W 
+       
+
+...Miami-Dade County... Turkey Point                 55 MPH    0523 
+PM 10/09   25.43N/80.35W 
+       
+Miami-Tamiami Executive Apt  53 MPH    0507 PM 10/09   25.65N/80.43W 
+       
+Opa Locka Airport            52 MPH    0356 PM 10/09   25.92N/80.28W 
+       
+Fswn MDC Homestead           51 MPH    0430 PM 10/09   25.47N/80.47W 
+       
+Fswn MDC Hialeah             49 MPH    1240 AM 10/10   25.86N/80.32W 
+       
+Fswn MDC Downtown            48 MPH    0820 PM 10/09   25.78N/80.19W 
+       
+Chekika                      44 MPH    0630 PM 10/09   25.63N/80.58W 
+       
+North Miami                  44 MPH    1236 AM 10/10   25.91N/80.16W 
+       
+Homestead Air Reserve Base   43 MPH    0420 PM 10/09   25.47N/80.37W 
+       
+Fswn MDC North               42 MPH    0830 PM 10/09   25.88N/80.25W 
+       
+University of Miami          41 MPH    0930 PM 10/09   25.72N/80.28W 
+       
+Cache/Everglades NP          40 MPH    0530 PM 10/09   25.39N/80.68W 
+       
+Doral/Medley                 40 MPH    1219 AM 10/10   25.86N/80.37W 
+      
+    
+...Palm Beach County... North Palm Beach Airport     92 MPH    0510 
+PM 10/09   26.85N/80.22W 
+       
+Palm Beach International Apt 72 MPH    0404 AM 10/10   26.68N/80.10W 
+Wellington                   68 MPH    0200 AM 10/10   26.68N/80.30W 
+Oakes Substation Jupiter     59 MPH    0213 AM 10/10   26.91N/80.06W 
+Pahokee                      57 MPH    0314 AM 10/10   26.80N/80.70W 
+Lantana Palm Beach Park Apt  56 MPH    0215 AM 10/10   26.60N/80.08W 
+Mangonia Park                56 MPH    0458 AM 10/10   26.76N/80.07W 
+Royal Palm Beach             49 MPH    1254 AM 10/10   26.80N/80.31W 
+Boca Raton                   46 MPH    0953 PM 10/09   26.38N/80.10W 
+Fpr Wxel South Florida Pbs   44 MPH    0230 AM 10/10   26.49N/80.09W 
+Jupiter                      44 MPH    0319 AM 10/10   26.97N/80.10W 
+Fswn Delray Beach Fire Hq    43 MPH    0150 AM 10/10   26.46N/80.08W 
+1 SSW Belle Glade            42 MPH    0203 AM 10/10   26.67N/80.68W 
+Lake Worth                   42 MPH    0225 AM 10/10   26.60N/80.18W 
+Boynton Beach                39 MPH    0426 AM 10/10   26.53N/80.08W 
+     
+...Maritime Stations... Fswn Lake Okeechobee Lock 7  66 MPH    1220 
+AM 10/10   27.20N/80.83W 
+       
+Juno Beach Pier              61 MPH    0220 AM 10/10   26.89N/80.06W 
+       
+Fswn Glades Harney Pond Park 58 MPH    0140 AM 10/10   26.99N/81.07W 
+       
+Government Cut               56 MPH    0837 PM 10/09   25.75N/80.10W 
+       
+Fswn Delray Beach North      54 MPH    0620 PM 10/09   26.47N/80.06W 
+       
+Lake Worth Pier              53 MPH    1242 AM 10/10   26.61N/80.03W 
+       
+Port Everglades              50 MPH    1233 AM 10/10   26.09N/80.11W 
+       
+2 NE Dania Beach             49 MPH    0330 PM 10/09   26.08N/80.10W 
+       
+Hillsboro Inlet              49 MPH    0555 PM 10/09   26.26N/80.08W 
+       
+Dania Pier                   48 MPH    0517 PM 10/09   26.06N/80.11W 
+       
+Fswn Delray Beach Atlantic   45 MPH    0540 PM 10/09   26.44N/80.06W 
+       
+Biscayne Bay Light 20        45 MPH    0637 PM 10/09   25.66N/80.19W 
+       
+Boynton Beach                44 MPH    0136 AM 10/10   26.55N/80.05W 
+       
+Dodge Island                 43 MPH    0411 PM 10/09   25.77N/80.15W 
+       
+Virginia Key                 41 MPH    0830 PM 10/09   25.73N/80.16W 
+               
+Biscayne Bay Harbor Pilots   40 MPH    0641 PM 10/09   25.77N/80.15W 
+       
+Fswn Sunny Isles Beach       39 MPH    1240 AM 10/10   25.94N/80.12W 
+       
+Morningside Park             38 MPH    0416 PM 10/09   25.82N/80.18W 
+       
+
+&&
+
+**METADATA** :10/10/2024,1233 AM, FL, Broward, Hollywood, , , 
+26.0195, -80.19, PKGUST, 35, mph, CWOP, Peak Wind Gust, 
+:10/09/2024,0525 PM, FL, Broward, Davie, , , 26.1049, -80.2811, 
+PKGUST, 36, mph, DAVIS, Peak Wind Gust, :10/09/2024,0455 PM, FL, 
+Broward, 1 E Sunrise, , , 26.1664, -80.2528, PKGUST, 36, mph, 
+URBANET, Peak Wind Gust, :10/10/2024,1245 AM, FL, Broward, Davie, , 
+, 26.0732, -80.297, PKGUST, 36, mph, CWOP, Peak Wind Gust, 
+:10/09/2024,0700 PM, FL, Broward, BSO Port Everglades Port 
+Everglades, FL, , , 26.0833, -80.1197, PKGUST, 36, mph, URBANET, 
+Peak Wind Gust, :10/09/2024,0505 PM, FL, Broward, Tamarac, , , 
+26.2131, -80.2714, PKGUST, 37, mph, URBANET, Peak Wind Gust, 
+:10/10/2024,0114 AM, FL, Broward, City of Tamarac Tamarac, FL, , , 
+26.1967, -80.2878, PKGUST, 37, mph, URBANET, Peak Wind Gust, 
+:10/09/2024,1100 PM, FL, Broward, Coconut Creek, , , 26.2586, -
+80.1939, PKGUST, 37, mph, URBANET, Peak Wind Gust, :10/10/2024,0220 
+AM, FL, Broward, Coral Springs Fd Fire Station 43, , , 26.286, -
+80.2198, PKGUST, 38, mph, MESOWEST, Peak Wind Gust, :10/09/2024,0330 
+PM, FL, Broward, 3 S Weston, , , 26.0656, -80.3981, PKGUST, 38, mph, 
+URBANET, Peak Wind Gust, :10/10/2024,0150 AM, FL, Broward, Bemus 
+Point, , , 26.2153, -80.2827, PKGUST, 39, mph, CWOP, Peak Wind Gust, 
+:10/10/2024,0210 AM, FL, Broward, City Of Sunrise Fire Station 39, , 
+, 26.1545, -80.24, PKGUST, 40, mph, MESOWEST, Peak Wind Gust, 
+:10/09/2024,0816 PM, FL, Broward, Port Everglades South, , , 
+26.0614, -80.126, PKGUST, 40, mph, WXFLOW, Peak Wind Gust, 
+:10/10/2024,0210 AM, FL, Broward, Coral Springs Fd Fire Station 95, 
+, , 26.2359, -80.2795, PKGUST, 41, mph, MESOWEST, Peak Wind Gust, 
+:10/10/2024,0220 AM, FL, Broward, Fswn Coconut Creek, , , 26.2842, -
+80.1982, PKGUST, 41, mph, MESOWEST, Peak Wind Gust, :10/09/2024,0540 
+PM, FL, Broward, Pine Crest School, , , 26.2046, -80.124, PKGUST, 
+42, mph, MESOWEST, Peak Wind Gust, :10/09/2024,0657 PM, FL, Broward, 
+Navsea 1, , , 26.0553, -80.1129, PKGUST, 42, mph, MESOWEST, Peak 
+Wind Gust, :10/09/2024,0115 PM, FL, Broward, Pembroke Pines, , , 
+26.0152, -80.4048, PKGUST, 44, mph, CWOP, Peak Wind Gust, 
+:10/10/2024,0111 AM, FL, Broward, Conservation, , , 26.194, -
+80.2975, PKGUST, 44, mph, WXFLOW, Peak Wind Gust, :10/10/2024,0140 
+AM, FL, Broward, Coral Springs Public Safety Buil, , , 26.2641, -
+80.2651, PKGUST, 45, mph, MESOWEST, Peak Wind Gust, :10/09/2024,0315 
+PM, FL, Broward, Flamingo, , , 25.9667, -80.3097, PKGUST, 45, mph, 
+WXFLOW, Peak Wind Gust, :10/09/2024,0705 PM, FL, Broward, Fort 
+Lauderdale, , , 26.1092, -80.1084, PKGUST, 46, mph, DAVIS, Peak Wind 
+Gust, :10/09/2024,0408 PM, FL, Broward, Fort Lauderdale/hollywood 
+Intl Airport, , , 26.0667, -80.15, PKGUST, 47, mph, ASOS, Peak Wind 
+Gust, :10/09/2024,0514 PM, FL, Broward, Pembroke Pines, , , 26, -
+80.2333, PKGUST, 49, mph, ASOS, Peak Wind Gust, :10/10/2024,1251 AM, 
+FL, Broward, Pompano Beach, , , 26.25, -80.1167, PKGUST, 51, mph, 
+ASOS, Peak Wind Gust, :10/09/2024,0750 PM, FL, Broward, Fswn Ft. 
+Lauderdale-Hollywood In, , , 26.08, -80.1416, PKGUST, 52, mph, 
+MESOWEST, Peak Wind Gust, :10/10/2024,0117 AM, FL, Broward, Ft 
+Lauderd Exec, , , 26.2, -80.1833, PKGUST, 52, mph, ASOS, Peak Wind 
+Gust, :10/09/2024,1115 PM, FL, Collier, Bonita Springs, , , 26.3103, 
+-81.7594, PKGUST, 35, mph, CWOP, Peak Wind Gust, 
+:10/09/2024,0711 PM, FL, Collier, Panther West, , , 26.1717, -
+81.4789, PKGUST, 35, mph, RAWS, Peak Wind Gust, :10/09/2024,0937 PM, 
+FL, Collier, Oasis, , , 25.8604, -81.033, PKGUST, 37, mph, RAWS, 
+Peak Wind Gust, :10/09/2024,0705 PM, FL, Collier, Naples, , , 26.1, -
+81.7, PKGUST, 38, mph, DAVIS, Peak Wind Gust, :10/09/2024,1045 PM, 
+FL, Collier, Honeymoon Raws, , , 26.1948, -81.0668, PKGUST, 38, mph, 
+RAWS, Peak Wind Gust, :10/09/2024,1022 PM, FL, Collier, Raccoon 
+Point Raws, , , 25.9781, -80.9041, PKGUST, 39, mph, RAWS, Peak Wind 
+Gust, :10/09/2024,1045 PM, FL, Collier, Miles City Raws, , , 
+26.2483, -81.2953, PKGUST, 42, mph, RAWS, Peak Wind Gust, 
+:10/09/2024,1110 PM, FL, Collier, Fpr Wgcu Rookery Bay, , , 26.05, -
+81.701, PKGUST, 43, mph, MESOWEST, Peak Wind Gust, :10/09/2024,1055 
+PM, FL, Collier, 1 NW Immokalee, , , 26.4417, -81.4592, PKGUST, 44, 
+mph, AWS, Peak Wind Gust, :10/09/2024,0211 PM, FL, Collier, Panther 
+East, , , 26.1686, -81.3644, PKGUST, 45, mph, RAWS, Peak Wind Gust, 
+:10/09/2024,0550 PM, FL, Collier, Fswn Collier Everglades Airpark, , 
+, 25.849, -81.3897, PKGUST, 48, mph, MESOWEST, Peak Wind Gust, 
+:10/09/2024,0111 PM, FL, Collier, NAPLES, , , 26.056, -81.662, 
+PKGUST, 49, mph, CWOP, Peak Wind Gust, :10/09/2024,0203 PM, FL, 
+Collier, Ochopee Raws, , , 25.8987, -81.3198, PKGUST, 50, mph, RAWS, 
+Peak Wind Gust, :10/09/2024,1000 PM, FL, Collier, 1 E Bonita Shores, 
+, , 26.315, -81.8158, PKGUST, 53, mph, AWS, Peak Wind Gust, 
+:10/09/2024,1155 PM, FL, Collier, Ave Maria, , , 26.2984, -81.4466, 
+PKGUST, 53, mph, DAVIS, Peak Wind Gust, :10/09/2024,1025 PM, FL, 
+Collier, Capri, , , 26.037, -81.7008, PKGUST, 53, mph, WXFLOW, Peak 
+Wind Gust, :10/09/2024,1035 PM, FL, Collier, 1 ENE Naples, , , 
+26.1489, -81.7761, PKGUST, 54, mph, AWS, Peak Wind Gust, 
+:10/09/2024,1126 PM, FL, Collier, Naples Zoo, , , 26.1675, -81.7904, 
+PKGUST, 56, mph, WXFLOW, Peak Wind Gust, :10/09/2024,1115 PM, FL, 
+Collier, Immokalee, , , 26.4333, -81.4, PKGUST, 58, mph, AWOS, Peak 
+Wind Gust, :10/09/2024,1140 PM, FL, Collier, Fswn Collier County 
+Eoc, , , 26.1053, -81.6947, PKGUST, 59, mph, MESOWEST, Peak Wind 
+Gust, :10/10/2024,0300 AM, FL, Glades, Fswn Glades Palmdale 
+Community C, , , 26.9434, -81.3087, PKGUST, 38, mph, MESOWEST, Peak 
+Wind Gust, :10/09/2024,1138 PM, FL, Glades, Sfwmd 16, , , 26.7901, -
+81.2049, PKGUST, 38, mph, MESOWEST, Peak Wind Gust, :10/10/2024,1232 
+AM, FL, Glades, Brighton, , , 27.1196, -81.0827, PKGUST, 43, mph, 
+RAWS, Peak Wind Gust, :10/09/2024,1100 PM, FL, Glades, Fswn Glades 
+Buckhead Ridge, , , 27.1437, -80.8767, PKGUST, 49, mph, MESOWEST, 
+Peak Wind Gust, :10/10/2024,0140 AM, FL, Glades, Fswn Glades Alvin 
+Ward Park, , , 26.8395, -81.0813, PKGUST, 56, mph, MESOWEST, Peak 
+Wind Gust, :10/10/2024,0150 AM, FL, Glades, Fswn Glades Muse Ems 3, 
+, , 26.7983, -81.4261, PKGUST, 58, mph, MESOWEST, Peak Wind Gust, 
+:10/10/2024,0220 AM, FL, Glades, Fswn Glades Eoc, , , 26.8409, -
+81.1235, PKGUST, 59, mph, MESOWEST, Peak Wind Gust, :10/09/2024,0835 
+PM, FL, Hendry, 7 SSE Moore Haven, , , 26.7333, -81.05, PKGUST, 47, 
+mph, AWOS, Peak Wind Gust, :10/09/2024,0435 PM, FL, Miami-Dade, 
+Hometead, , , 25.5, -80.5, PKGUST, 35, mph, DAVIS, Peak Wind Gust, 
+:10/10/2024,0520 AM, FL, Miami-Dade, Fswn Miami Dade College West 
+Cam, , , 25.8084, -80.3848, PKGUST, 36, mph, MESOWEST, Peak Wind 
+Gust, :10/09/2024,0859 PM, FL, Miami-Dade, 1 W Miami, , , 25.774, -
+80.2277, PKGUST, 36, mph, AWS, Peak Wind Gust, :10/09/2024,0530 PM, 
+FL, Miami-Dade, Cache, , , 25.3903, -80.6803, PKGUST, 40, mph, RAWS, 
+Peak Wind Gust, :10/10/2024,1219 AM, FL, Miami-Dade, Urban, , , 
+25.855, -80.3687, PKGUST, 40, mph, WXFLOW, Peak Wind Gust, 
+:10/09/2024,0930 PM, FL, Miami-Dade, 1.0 SW Coral Gables 
+(WEATHERSTEM), , , 25.718, -80.2777, PKGUST, 41, mph, MESOWEST, Peak 
+Wind Gust, :10/09/2024,0740 PM, FL, Miami-Dade, 1.1 E South Miami 
+(WEATHERSTEM), , , 25.7144, -80.2824, PKGUST, 41, mph, MESOWEST, 
+Peak Wind Gust, :10/09/2024,0830 PM, FL, Miami-Dade, Fswn Miami Dade 
+College North Ca, , , 25.8778, -80.2457, PKGUST, 42, mph, MESOWEST, 
+Peak Wind Gust, :10/09/2024,0420 PM, FL, Miami-Dade, Homestead AFB, 
+, , 25.4667, -80.3667, PKGUST, 43, mph, AWOS, Peak Wind Gust, 
+:10/09/2024,0630 PM, FL, Miami-Dade, Chekika, , , 25.625, -80.5797, 
+PKGUST, 44, mph, RAWS, Peak Wind Gust, :10/10/2024,1236 AM, FL, 
+Miami-Dade, North Miami, , , 25.9092, -80.1605, PKGUST, 44, mph, 
+WXFLOW, Peak Wind Gust, :10/09/2024,0420 PM, FL, Miami-Dade, 1.6 NW 
+Miami (WEATHERSTEM), , , 25.7878, -80.216, PKGUST, 48, mph, 
+MESOWEST, Peak Wind Gust, :10/09/2024,0820 PM, FL, Miami-Dade, Fswn 
+Miami Dade College Wolfson, , , 25.7793, -80.1906, PKGUST, 48, mph, 
+MESOWEST, Peak Wind Gust, :10/10/2024,1240 AM, FL, Miami-Dade, Fswn 
+Miami Dade College Hialeah, , , 25.8641, -80.3192, PKGUST, 49, mph, 
+MESOWEST, Peak Wind Gust, :10/09/2024,0430 PM, FL, Miami-Dade, Fswn 
+Miami Dade College Homestea, , , 25.4748, -80.4735, PKGUST, 51, mph, 
+MESOWEST, Peak Wind Gust, :10/09/2024,0700 PM, FL, Miami-Dade, 
+Miami, , , 25.8, -80.2833, PKGUST, 51, mph, ASOS, Peak Wind Gust, 
+:10/09/2024,0356 PM, FL, Miami-Dade, Miami Opa Locka, , , 25.9167, -
+80.2833, PKGUST, 52, mph, ASOS, Peak Wind Gust, :10/09/2024,0507 PM, 
+FL, Miami-Dade, Miami Tamiami, , , 25.65, -80.4333, PKGUST, 53, mph, 
+ASOS, Peak Wind Gust, :10/09/2024,0523 PM, FL, Miami-Dade, Turkey 
+Point, , , 25.4339, -80.3453, PKGUST, 55, mph, WXFLOW, Peak Wind 
+Gust, :10/10/2024,0243 AM, FL, Palm Beach, Jupiter, , , 26.9428, -
+80.1047, PKGUST, 37, mph, AWS, Peak Wind Gust, :10/10/2024,0219 AM, 
+FL, Palm Beach, Palm Beach Gardens, , , 26.8256, -80.1011, PKGUST, 
+37, mph, AWS, Peak Wind Gust, :10/10/2024,0340 AM, FL, Palm Beach, 
+Fswn Delray Fire Station 115, , , 26.4382, -80.1138, PKGUST, 38, 
+mph, MESOWEST, Peak Wind Gust, :10/10/2024,0426 AM, FL, Palm Beach, 
+Boynton Beach, , , 26.5312, -80.0787, PKGUST, 39, mph, CWOP, Peak 
+Wind Gust, :10/10/2024,0228 AM, FL, Palm Beach, Sfwmd S14, , , 
+26.858, -80.4841, PKGUST, 39, mph, MESOWEST, Peak Wind Gust, 
+:10/10/2024,0138 AM, FL, Palm Beach, Boca Raton, , , 26.339, -
+80.208, PKGUST, 40, mph, CWOP, Peak Wind Gust, :10/10/2024,0245 AM, 
+FL, Palm Beach, West Palm Beach, , , 26.7873, -80.1409, PKGUST, 41, 
+mph, DAVIS, Peak Wind Gust, :10/10/2024,0309 AM, FL, Palm Beach, 
+Jupiter, , , 26.893, -80.068, PKGUST, 41, mph, CWOP, Peak Wind Gust, 
+:10/10/2024,0203 AM, FL, Palm Beach, 1 SSW Belle Glade, , , 26.6689, 
+-80.6806, PKGUST, 42, mph, AWS, Peak Wind Gust,
+:10/10/2024,0225 AM, FL, Palm Beach, Lake Worth, , , 26.6037, -80.1768, PKGUST, 42, mph, CWOP, Peak Wind Gust,
+:10/10/2024,0150 AM, FL, Palm Beach, Fswn Delray Beach Fire Hq, , , 26.4621, -80.0786, PKGUST, 43, mph, MESOWEST, Peak Wind Gust,
+:10/10/2024,0153 AM, FL, Palm Beach, Jupiter, , , 26.9, -80.1, PKGUST, 43, mph, CWOP, Peak Wind Gust,
+:10/10/2024,0230 AM, FL, Palm Beach, Fpr Wxel South Florida Pbs, , , 26.4935, -80.0906, PKGUST, 44, mph, MESOWEST, Peak Wind Gust,
+:10/10/2024,0319 AM, FL, Palm Beach, Jupiter, , , 26.9675, -80.0974, PKGUST, 44, mph, CWOP, Peak Wind Gust,
+:10/10/2024,0558 AM, FL, Palm Beach, Boca Raton, , , 26.3714, -80.0852, PKGUST, 45, mph, WXFLOW, Peak Wind Gust,
+:10/10/2024,0218 AM, FL, Palm Beach, West Palm Beach, , , 26.6573, -80.1379, PKGUST, 45, mph, WXFLOW, Peak Wind Gust,
+:10/09/2024,0953 PM, FL, Palm Beach, Boca Raton, , , 26.3833, -80.1, PKGUST, 46, mph, AWOS, Peak Wind Gust,
+:10/10/2024,0225 AM, FL, Palm Beach, West Palm Beach, , , 26.7195, -80.1643, PKGUST, 47, mph, CWOP, Peak Wind Gust,
+:10/10/2024,1254 AM, FL, Palm Beach, Royal Palm Beach, , , 26.8033, -80.3068, PKGUST, 49, mph, CWOP, Peak Wind Gust,
+:10/10/2024,0215 AM, FL, Palm Beach, Lantana Palm Bea, , , 26.6, -80.0833, PKGUST, 56, mph, AWOS, Peak Wind Gust,
+:10/10/2024,0458 AM, FL, Palm Beach, Mangonia Park, , , 26.7559, -80.0691, PKGUST, 56, mph, WXFLOW, Peak Wind Gust,
+:10/10/2024,0314 AM, FL, Palm Beach, Florida Usace S273, , , 26.7978, -80.6958, PKGUST, 57, mph, MESOWEST, Peak Wind Gust,
+:10/10/2024,0213 AM, FL, Palm Beach, Oakes Substation, , , 26.9116, -80.0634, PKGUST, 59, mph, WXFLOW, Peak Wind Gust,
+:10/10/2024,0404 AM, FL, Palm Beach, West Palm Beach, , , 26.6833, -80.1, PKGUST, 72, mph, ASOS, Peak Wind Gust,
+:10/09/2024,0510 PM, FL, Palm Beach, North Palm Beach, , , 26.85, -80.2167, PKGUST, 92, mph, AWOS, Peak Wind Gust,
+
+Observations are collected from a variety of sources with varying
+equipment and exposures. We thank all volunteer weather observers 
+for their dedication. Not all data listed are considered official.
+
+$$
+
+MFL
+
+
+
+311 
+NOUS42 KMFL 101220
+PNSMFL
+FLZ063-066>075-168-172>174-101221-
+
+Public Information Statement
+National Weather Service Miami FL
+821 AM EDT Thu Oct 10 2024
+
+..NOAA WEATHER RADIO WEEKLY WARNING ALARM TEST WILL BE SCHEDULE 
+FOR FRIDAY 10/11/24...
+
+The weekly NOAA weather radio test that was scheduled for October 
+9th has been reschedule for this Friday October 11th between 11 AM 
+and Noon time. 
+
+$$
+
+Baxter
+
+
+
+972 
+NOUS42 KMFL 101132
+PNSMFL
+FLZ063-066>075-168-172>174-102332-
+
+Public Information Statement
+National Weather Service Miami FL
+732 AM EDT Thu Oct 10 2024
+
+...PRELIMINARY HIGHEST WIND GUST REPORTS IN SOUTH FLORIDA...
+...TIME PERIOD 8 PM TUESDAY 10/7 TO 8 AM THURSDAY 10/9...
+
+Location                     Speed     Time/Date       Lat/Lon              
+
+...Florida...
+
+...Broward County...
+Fswn Ft. Laud-Hollywood      52 MPH    0750 PM 10/09   26.08N/80.14W        
+Ft Lauderdale Exec Airport   52 MPH    0117 AM 10/10   26.20N/80.18W        
+Pompano Beach Airpark        51 MPH    1251 AM 10/10   26.25N/80.12W        
+Hollywood North Perry Apt    50 MPH    0514 PM 10/09   26.00N/80.23W               
+Ft. Laud/Hollywood Airport   46 MPH    0705 PM 10/09   26.11N/80.11W        
+Coral Springs Public Safety  45 MPH    0140 AM 10/10   26.26N/80.27W        
+Miramar                      45 MPH    0315 PM 10/09   25.97N/80.31W        
+Pembroke Pines               44 MPH    0115 PM 10/09   26.02N/80.40W        
+Tamarac                      44 MPH    0111 AM 10/10   26.19N/80.30W        
+Pine Crest School            42 MPH    0540 PM 10/09   26.20N/80.12W        
+Dania Beach                  42 MPH    0657 PM 10/09   26.06N/80.11W        
+Coral Springs Fd Fire Statio 41 MPH    0210 AM 10/10   26.24N/80.28W        
+Fswn Coconut Creek           41 MPH    0220 AM 10/10   26.28N/80.20W        
+City Of Sunrise Fire Station 40 MPH    0210 AM 10/10   26.15N/80.24W        
+Port Everglades South        40 MPH    0816 PM 10/09   26.06N/80.13W       
+Coral Springs Fd Fire Statio 38 MPH    0220 AM 10/10   26.29N/80.22W        
+3 S Weston                   38 MPH    0330 PM 10/09   26.07N/80.40W       
+Coconut Creek                37 MPH    1100 PM 10/09   26.26N/80.19W        
+Davie                        36 MPH    0525 PM 10/09   26.10N/80.28W        
+1 E Sunrise                  36 MPH    0455 PM 10/09   26.17N/80.25W       
+
+...Collier County...
+Fswn Collier County Eoc      59 MPH    1140 PM 10/09   26.11N/81.69W        
+Immokalee                    58 MPH    1115 PM 10/09   26.43N/81.40W        
+Naples Zoo                   56 MPH    1126 PM 10/09   26.17N/81.79W        
+1 ENE Naples                 54 MPH    1035 PM 10/09   26.15N/81.78W        
+1 E Bonita Shores            53 MPH    1000 PM 10/09   26.32N/81.82W        
+Ave Maria                    53 MPH    1155 PM 10/09   26.30N/81.45W        
+Capri                        53 MPH    1025 PM 10/09   26.04N/81.70W        
+Ochopee Raws                 50 MPH    0203 PM 10/09   25.90N/81.32W       
+Fswn Collier Everglades Airp 48 MPH    0550 PM 10/09   25.85N/81.39W        
+Panther Wildlife Refuge      45 MPH    0211 PM 10/09   26.17N/81.36W        
+1 NW Immokalee               44 MPH    1055 PM 10/09   26.44N/81.46W        
+Fpr Wgcu Rookery Bay         43 MPH    1110 PM 10/09   26.05N/81.70W        
+Miles City Raws              42 MPH    1045 PM 10/09   26.25N/81.30W        
+Raccoon Point Raws           39 MPH    1022 PM 10/09   25.98N/80.90W              
+Honeymoon Raws               38 MPH    1045 PM 10/09   26.19N/81.07W        
+Oasis Ranger Station         37 MPH    0937 PM 10/09   25.86N/81.03W        
+      
+...Glades County...
+Fswn Glades Eoc              59 MPH    0220 AM 10/10   26.84N/81.12W        
+Fswn Glades Muse Ems 3       58 MPH    0150 AM 10/10   26.80N/81.43W        
+Fswn Glades Alvin Ward Park  56 MPH    0140 AM 10/10   26.84N/81.08W        
+Fswn Glades Buckhead Ridge   49 MPH    1100 PM 10/09   27.14N/80.88W        
+Brighton                     43 MPH    1232 AM 10/10   27.12N/81.08W        
+Fswn Glades Palmdale         38 MPH    0300 AM 10/10   26.94N/81.31W        
+       
+...Hendry County...
+Airglades Airport            47 MPH    0835 PM 10/09   26.73N/81.05W        
+
+...Miami-Dade County...
+Turkey Point                 55 MPH    0523 PM 10/09   25.43N/80.35W        
+Miami-Tamiami Executive Apt  53 MPH    0507 PM 10/09   25.65N/80.43W        
+Opa Locka Airport            52 MPH    0356 PM 10/09   25.92N/80.28W        
+Fswn MDC Homestead           51 MPH    0430 PM 10/09   25.47N/80.47W        
+Fswn MDC Hialeah             49 MPH    1240 AM 10/10   25.86N/80.32W        
+Fswn MDC Downtown            48 MPH    0820 PM 10/09   25.78N/80.19W        
+Chekika                      44 MPH    0630 PM 10/09   25.63N/80.58W        
+North Miami                  44 MPH    1236 AM 10/10   25.91N/80.16W        
+Homestead Air Reserve Base   43 MPH    0420 PM 10/09   25.47N/80.37W        
+Fswn MDC North               42 MPH    0830 PM 10/09   25.88N/80.25W        
+University of Miami          41 MPH    0930 PM 10/09   25.72N/80.28W        
+Cache/Everglades NP          40 MPH    0530 PM 10/09   25.39N/80.68W        
+Doral/Medley                 40 MPH    1219 AM 10/10   25.86N/80.37W       
+    
+...Palm Beach County...
+North Palm Beach Airport     92 MPH    0510 PM 10/09   26.85N/80.22W        
+Palm Beach International Apt 72 MPH    0404 AM 10/10   26.68N/80.10W        
+Oakes Substation Jupiter     59 MPH    0213 AM 10/10   26.91N/80.06W        
+Pahokee                      57 MPH    0314 AM 10/10   26.80N/80.70W        
+Lantana Palm Beach Park Apt  56 MPH    0215 AM 10/10   26.60N/80.08W        
+Mangonia Park                56 MPH    0458 AM 10/10   26.76N/80.07W        
+Royal Palm Beach             49 MPH    1254 AM 10/10   26.80N/80.31W               
+Boca Raton                   46 MPH    0953 PM 10/09   26.38N/80.10W                      
+Fpr Wxel South Florida Pbs   44 MPH    0230 AM 10/10   26.49N/80.09W        
+Jupiter                      44 MPH    0319 AM 10/10   26.97N/80.10W        
+Fswn Delray Beach Fire Hq    43 MPH    0150 AM 10/10   26.46N/80.08W              
+1 SSW Belle Glade            42 MPH    0203 AM 10/10   26.67N/80.68W        
+Lake Worth                   42 MPH    0225 AM 10/10   26.60N/80.18W            
+Boynton Beach                39 MPH    0426 AM 10/10   26.53N/80.08W        
+      
+...Maritime Stations...
+Fswn Lake Okeechobee Lock 7  66 MPH    1220 AM 10/10   27.20N/80.83W        
+Juno Beach Pier              61 MPH    0220 AM 10/10   26.89N/80.06W        
+Fswn Glades Harney Pond Park 58 MPH    0140 AM 10/10   26.99N/81.07W        
+Government Cut               56 MPH    0837 PM 10/09   25.75N/80.10W        
+Fswn Delray Beach North      54 MPH    0620 PM 10/09   26.47N/80.06W        
+Lake Worth Pier              53 MPH    1242 AM 10/10   26.61N/80.03W        
+Port Everglades              50 MPH    1233 AM 10/10   26.09N/80.11W        
+2 NE Dania Beach             49 MPH    0330 PM 10/09   26.08N/80.10W        
+Hillsboro Inlet              49 MPH    0555 PM 10/09   26.26N/80.08W        
+Dania Pier                   48 MPH    0517 PM 10/09   26.06N/80.11W        
+Fswn Delray Beach Atlantic   45 MPH    0540 PM 10/09   26.44N/80.06W        
+Biscayne Bay Light 20        45 MPH    0637 PM 10/09   25.66N/80.19W        
+Boynton Beach                44 MPH    0136 AM 10/10   26.55N/80.05W        
+Dodge Island                 43 MPH    0411 PM 10/09   25.77N/80.15W        
+Virginia Key                 41 MPH    0830 PM 10/09   25.73N/80.16W                
+Biscayne Bay Harbor Pilots   40 MPH    0641 PM 10/09   25.77N/80.15W        
+Fswn Sunny Isles Beach       39 MPH    1240 AM 10/10   25.94N/80.12W        
+Morningside Park             38 MPH    0416 PM 10/09   25.82N/80.18W        
+
+&&
+
+**METADATA**
+:10/10/2024,1233 AM, FL, Broward, Hollywood, , , 26.0195, -80.19, PKGUST, 35, mph, CWOP, Peak Wind Gust,
+:10/09/2024,0525 PM, FL, Broward, Davie, , , 26.1049, -80.2811, PKGUST, 36, mph, DAVIS, Peak Wind Gust,
+:10/09/2024,0455 PM, FL, Broward, 1 E Sunrise, , , 26.1664, -80.2528, PKGUST, 36, mph, URBANET, Peak Wind Gust,
+:10/10/2024,1245 AM, FL, Broward, Davie, , , 26.0732, -80.297, PKGUST, 36, mph, CWOP, Peak Wind Gust,
+:10/09/2024,0700 PM, FL, Broward, BSO Port Everglades Port Everglades, FL, , , 26.0833, -80.1197, PKGUST, 36, mph, URBANET, Peak Wind Gust,
+:10/09/2024,0505 PM, FL, Broward, Tamarac, , , 26.2131, -80.2714, PKGUST, 37, mph, URBANET, Peak Wind Gust,
+:10/10/2024,0114 AM, FL, Broward, City of Tamarac Tamarac, FL, , , 26.1967, -80.2878, PKGUST, 37, mph, URBANET, Peak Wind Gust,
+:10/09/2024,1100 PM, FL, Broward, Coconut Creek, , , 26.2586, -80.1939, PKGUST, 37, mph, URBANET, Peak Wind Gust,
+:10/10/2024,0220 AM, FL, Broward, Coral Springs Fd Fire Station 43, , , 26.286, -80.2198, PKGUST, 38, mph, MESOWEST, Peak Wind Gust,
+:10/09/2024,0330 PM, FL, Broward, 3 S Weston, , , 26.0656, -80.3981, PKGUST, 38, mph, URBANET, Peak Wind Gust,
+:10/10/2024,0150 AM, FL, Broward, Bemus Point, , , 26.2153, -80.2827, PKGUST, 39, mph, CWOP, Peak Wind Gust,
+:10/10/2024,0210 AM, FL, Broward, City Of Sunrise Fire Station 39, , , 26.1545, -80.24, PKGUST, 40, mph, MESOWEST, Peak Wind Gust,
+:10/09/2024,0816 PM, FL, Broward, Port Everglades South, , , 26.0614, -80.126, PKGUST, 40, mph, WXFLOW, Peak Wind Gust,
+:10/10/2024,0210 AM, FL, Broward, Coral Springs Fd Fire Station 95, , , 26.2359, -80.2795, PKGUST, 41, mph, MESOWEST, Peak Wind Gust,
+:10/10/2024,0220 AM, FL, Broward, Fswn Coconut Creek, , , 26.2842, -80.1982, PKGUST, 41, mph, MESOWEST, Peak Wind Gust,
+:10/09/2024,0540 PM, FL, Broward, Pine Crest School, , , 26.2046, -80.124, PKGUST, 42, mph, MESOWEST, Peak Wind Gust,
+:10/09/2024,0657 PM, FL, Broward, Navsea 1, , , 26.0553, -80.1129, PKGUST, 42, mph, MESOWEST, Peak Wind Gust,
+:10/09/2024,0115 PM, FL, Broward, Pembroke Pines, , , 26.0152, -80.4048, PKGUST, 44, mph, CWOP, Peak Wind Gust,
+:10/10/2024,0111 AM, FL, Broward, Conservation, , , 26.194, -80.2975, PKGUST, 44, mph, WXFLOW, Peak Wind Gust,
+:10/10/2024,0140 AM, FL, Broward, Coral Springs Public Safety Buil, , , 26.2641, -80.2651, PKGUST, 45, mph, MESOWEST, Peak Wind Gust,
+:10/09/2024,0315 PM, FL, Broward, Flamingo, , , 25.9667, -80.3097, PKGUST, 45, mph, WXFLOW, Peak Wind Gust,
+:10/09/2024,0705 PM, FL, Broward, Fort Lauderdale, , , 26.1092, -80.1084, PKGUST, 46, mph, DAVIS, Peak Wind Gust,
+:10/09/2024,0408 PM, FL, Broward, Fort Lauderdale/hollywood Intl Airport, , , 26.0667, -80.15, PKGUST, 47, mph, ASOS, Peak Wind Gust,
+:10/09/2024,0514 PM, FL, Broward, Pembroke Pines, , , 26, -80.2333, PKGUST, 49, mph, ASOS, Peak Wind Gust,
+:10/10/2024,1251 AM, FL, Broward, Pompano Beach, , , 26.25, -80.1167, PKGUST, 51, mph, ASOS, Peak Wind Gust,
+:10/09/2024,0750 PM, FL, Broward, Fswn Ft. Lauderdale-Hollywood In, , , 26.08, -80.1416, PKGUST, 52, mph, MESOWEST, Peak Wind Gust,
+:10/10/2024,0117 AM, FL, Broward, Ft Lauderd Exec, , , 26.2, -80.1833, PKGUST, 52, mph, ASOS, Peak Wind Gust,
+:10/09/2024,1115 PM, FL, Collier, Bonita Springs, , , 26.3103, -81.7594, PKGUST, 35, mph, CWOP, Peak Wind Gust,
+:10/09/2024,0711 PM, FL, Collier, Panther West, , , 26.1717, -81.4789, PKGUST, 35, mph, RAWS, Peak Wind Gust,
+:10/09/2024,0937 PM, FL, Collier, Oasis, , , 25.8604, -81.033, PKGUST, 37, mph, RAWS, Peak Wind Gust,
+:10/09/2024,0705 PM, FL, Collier, Naples, , , 26.1, -81.7, PKGUST, 38, mph, DAVIS, Peak Wind Gust,
+:10/09/2024,1045 PM, FL, Collier, Honeymoon Raws, , , 26.1948, -81.0668, PKGUST, 38, mph, RAWS, Peak Wind Gust,
+:10/09/2024,1022 PM, FL, Collier, Raccoon Point Raws, , , 25.9781, -80.9041, PKGUST, 39, mph, RAWS, Peak Wind Gust,
+:10/09/2024,1045 PM, FL, Collier, Miles City Raws, , , 26.2483, -81.2953, PKGUST, 42, mph, RAWS, Peak Wind Gust,
+:10/09/2024,1110 PM, FL, Collier, Fpr Wgcu Rookery Bay, , , 26.05, -81.701, PKGUST, 43, mph, MESOWEST, Peak Wind Gust,
+:10/09/2024,1055 PM, FL, Collier, 1 NW Immokalee, , , 26.4417, -81.4592, PKGUST, 44, mph, AWS, Peak Wind Gust,
+:10/09/2024,0211 PM, FL, Collier, Panther East, , , 26.1686, -81.3644, PKGUST, 45, mph, RAWS, Peak Wind Gust,
+:10/09/2024,0550 PM, FL, Collier, Fswn Collier Everglades Airpark, , , 25.849, -81.3897, PKGUST, 48, mph, MESOWEST, Peak Wind Gust,
+:10/09/2024,0111 PM, FL, Collier, NAPLES, , , 26.056, -81.662, PKGUST, 49, mph, CWOP, Peak Wind Gust,
+:10/09/2024,0203 PM, FL, Collier, Ochopee Raws, , , 25.8987, -81.3198, PKGUST, 50, mph, RAWS, Peak Wind Gust,
+:10/09/2024,1000 PM, FL, Collier, 1 E Bonita Shores, , , 26.315, -81.8158, PKGUST, 53, mph, AWS, Peak Wind Gust,
+:10/09/2024,1155 PM, FL, Collier, Ave Maria, , , 26.2984, -81.4466, PKGUST, 53, mph, DAVIS, Peak Wind Gust,
+:10/09/2024,1025 PM, FL, Collier, Capri, , , 26.037, -81.7008, PKGUST, 53, mph, WXFLOW, Peak Wind Gust,
+:10/09/2024,1035 PM, FL, Collier, 1 ENE Naples, , , 26.1489, -81.7761, PKGUST, 54, mph, AWS, Peak Wind Gust,
+:10/09/2024,1126 PM, FL, Collier, Naples Zoo, , , 26.1675, -81.7904, PKGUST, 56, mph, WXFLOW, Peak Wind Gust,
+:10/09/2024,1115 PM, FL, Collier, Immokalee, , , 26.4333, -81.4, PKGUST, 58, mph, AWOS, Peak Wind Gust,
+:10/09/2024,1140 PM, FL, Collier, Fswn Collier County Eoc, , , 26.1053, -81.6947, PKGUST, 59, mph, MESOWEST, Peak Wind Gust,
+:10/10/2024,0300 AM, FL, Glades, Fswn Glades Palmdale Community C, , , 26.9434, -81.3087, PKGUST, 38, mph, MESOWEST, Peak Wind Gust,
+:10/09/2024,1138 PM, FL, Glades, Sfwmd 16, , , 26.7901, -81.2049, PKGUST, 38, mph, MESOWEST, Peak Wind Gust,
+:10/10/2024,1232 AM, FL, Glades, Brighton, , , 27.1196, -81.0827, PKGUST, 43, mph, RAWS, Peak Wind Gust,
+:10/09/2024,1100 PM, FL, Glades, Fswn Glades Buckhead Ridge, , , 27.1437, -80.8767, PKGUST, 49, mph, MESOWEST, Peak Wind Gust,
+:10/10/2024,0140 AM, FL, Glades, Fswn Glades Alvin Ward Park, , , 26.8395, -81.0813, PKGUST, 56, mph, MESOWEST, Peak Wind Gust,
+:10/10/2024,0150 AM, FL, Glades, Fswn Glades Muse Ems 3, , , 26.7983, -81.4261, PKGUST, 58, mph, MESOWEST, Peak Wind Gust,
+:10/10/2024,0220 AM, FL, Glades, Fswn Glades Eoc, , , 26.8409, -81.1235, PKGUST, 59, mph, MESOWEST, Peak Wind Gust,
+:10/09/2024,0835 PM, FL, Hendry, 7 SSE Moore Haven, , , 26.7333, -81.05, PKGUST, 47, mph, AWOS, Peak Wind Gust,
+:10/09/2024,0435 PM, FL, Miami-Dade, Hometead, , , 25.5, -80.5, PKGUST, 35, mph, DAVIS, Peak Wind Gust,
+:10/10/2024,0520 AM, FL, Miami-Dade, Fswn Miami Dade College West Cam, , , 25.8084, -80.3848, PKGUST, 36, mph, MESOWEST, Peak Wind Gust,
+:10/09/2024,0859 PM, FL, Miami-Dade, 1 W Miami, , , 25.774, -80.2277, PKGUST, 36, mph, AWS, Peak Wind Gust,
+:10/09/2024,0530 PM, FL, Miami-Dade, Cache, , , 25.3903, -80.6803, PKGUST, 40, mph, RAWS, Peak Wind Gust,
+:10/10/2024,1219 AM, FL, Miami-Dade, Urban, , , 25.855, -80.3687, PKGUST, 40, mph, WXFLOW, Peak Wind Gust,
+:10/09/2024,0930 PM, FL, Miami-Dade, 1.0 SW Coral Gables (WEATHERSTEM), , , 25.718, -80.2777, PKGUST, 41, mph, MESOWEST, Peak Wind Gust,
+:10/09/2024,0740 PM, FL, Miami-Dade, 1.1 E South Miami (WEATHERSTEM), , , 25.7144, -80.2824, PKGUST, 41, mph, MESOWEST, Peak Wind Gust,
+:10/09/2024,0830 PM, FL, Miami-Dade, Fswn Miami Dade College North Ca, , , 25.8778, -80.2457, PKGUST, 42, mph, MESOWEST, Peak Wind Gust,
+:10/09/2024,0420 PM, FL, Miami-Dade, Homestead AFB, , , 25.4667, -80.3667, PKGUST, 43, mph, AWOS, Peak Wind Gust,
+:10/09/2024,0630 PM, FL, Miami-Dade, Chekika, , , 25.625, -80.5797, PKGUST, 44, mph, RAWS, Peak Wind Gust,
+:10/10/2024,1236 AM, FL, Miami-Dade, North Miami, , , 25.9092, -80.1605, PKGUST, 44, mph, WXFLOW, Peak Wind Gust,
+:10/09/2024,0420 PM, FL, Miami-Dade, 1.6 NW Miami (WEATHERSTEM), , , 25.7878, -80.216, PKGUST, 48, mph, MESOWEST, Peak Wind Gust,
+:10/09/2024,0820 PM, FL, Miami-Dade, Fswn Miami Dade College Wolfson, , , 25.7793, -80.1906, PKGUST, 48, mph, MESOWEST, Peak Wind Gust,
+:10/10/2024,1240 AM, FL, Miami-Dade, Fswn Miami Dade College Hialeah, , , 25.8641, -80.3192, PKGUST, 49, mph, MESOWEST, Peak Wind Gust,
+:10/09/2024,0430 PM, FL, Miami-Dade, Fswn Miami Dade College Homestea, , , 25.4748, -80.4735, PKGUST, 51, mph, MESOWEST, Peak Wind Gust,
+:10/09/2024,0700 PM, FL, Miami-Dade, Miami, , , 25.8, -80.2833, PKGUST, 51, mph, ASOS, Peak Wind Gust,
+:10/09/2024,0356 PM, FL, Miami-Dade, Miami Opa Locka, , , 25.9167, -80.2833, PKGUST, 52, mph, ASOS, Peak Wind Gust,
+:10/09/2024,0507 PM, FL, Miami-Dade, Miami Tamiami, , , 25.65, -80.4333, PKGUST, 53, mph, ASOS, Peak Wind Gust,
+:10/09/2024,0523 PM, FL, Miami-Dade, Turkey Point, , , 25.4339, -80.3453, PKGUST, 55, mph, WXFLOW, Peak Wind Gust,
+:10/10/2024,0243 AM, FL, Palm Beach, Jupiter, , , 26.9428, -80.1047, PKGUST, 37, mph, AWS, Peak Wind Gust,
+:10/10/2024,0219 AM, FL, Palm Beach, Palm Beach Gardens, , , 26.8256, -80.1011, PKGUST, 37, mph, AWS, Peak Wind Gust,
+:10/10/2024,0340 AM, FL, Palm Beach, Fswn Delray Fire Station 115, , , 26.4382, -80.1138, PKGUST, 38, mph, MESOWEST, Peak Wind Gust,
+:10/10/2024,0426 AM, FL, Palm Beach, Boynton Beach, , , 26.5312, -80.0787, PKGUST, 39, mph, CWOP, Peak Wind Gust,
+:10/10/2024,0228 AM, FL, Palm Beach, Sfwmd S14, , , 26.858, -80.4841, PKGUST, 39, mph, MESOWEST, Peak Wind Gust,
+:10/10/2024,0138 AM, FL, Palm Beach, Boca Raton, , , 26.339, -80.208, PKGUST, 40, mph, CWOP, Peak Wind Gust,
+:10/10/2024,0245 AM, FL, Palm Beach, West Palm Beach, , , 26.7873, -80.1409, PKGUST, 41, mph, DAVIS, Peak Wind Gust,
+:10/10/2024,0309 AM, FL, Palm Beach, Jupiter, , , 26.893, -80.068, PKGUST, 41, mph, CWOP, Peak Wind Gust,
+:10/10/2024,0203 AM, FL, Palm Beach, 1 SSW Belle Glade, , , 26.6689, -80.6806, PKGUST, 42, mph, AWS, Peak Wind Gust,
+:10/10/2024,0225 AM, FL, Palm Beach, Lake Worth, , , 26.6037, -80.1768, PKGUST, 42, mph, CWOP, Peak Wind Gust,
+:10/10/2024,0150 AM, FL, Palm Beach, Fswn Delray Beach Fire Hq, , , 26.4621, -80.0786, PKGUST, 43, mph, MESOWEST, Peak Wind Gust,
+:10/10/2024,0153 AM, FL, Palm Beach, Jupiter, , , 26.9, -80.1, PKGUST, 43, mph, CWOP, Peak Wind Gust,
+:10/10/2024,0230 AM, FL, Palm Beach, Fpr Wxel South Florida Pbs, , , 26.4935, -80.0906, PKGUST, 44, mph, MESOWEST, Peak Wind Gust,
+:10/10/2024,0319 AM, FL, Palm Beach, Jupiter, , , 26.9675, -80.0974, PKGUST, 44, mph, CWOP, Peak Wind Gust,
+:10/10/2024,0558 AM, FL, Palm Beach, Boca Raton, , , 26.3714, -80.0852, PKGUST, 45, mph, WXFLOW, Peak Wind Gust,
+:10/10/2024,0218 AM, FL, Palm Beach, West Palm Beach, , , 26.6573, -80.1379, PKGUST, 45, mph, WXFLOW, Peak Wind Gust,
+:10/09/2024,0953 PM, FL, Palm Beach, Boca Raton, , , 26.3833, -80.1, PKGUST, 46, mph, AWOS, Peak Wind Gust,
+:10/10/2024,0225 AM, FL, Palm Beach, West Palm Beach, , , 26.7195, -80.1643, PKGUST, 47, mph, CWOP, Peak Wind Gust,
+:10/10/2024,1254 AM, FL, Palm Beach, Royal Palm Beach, , , 26.8033, -80.3068, PKGUST, 49, mph, CWOP, Peak Wind Gust,
+:10/10/2024,0215 AM, FL, Palm Beach, Lantana Palm Bea, , , 26.6, -80.0833, PKGUST, 56, mph, AWOS, Peak Wind Gust,
+:10/10/2024,0458 AM, FL, Palm Beach, Mangonia Park, , , 26.7559, -80.0691, PKGUST, 56, mph, WXFLOW, Peak Wind Gust,
+:10/10/2024,0314 AM, FL, Palm Beach, Florida Usace S273, , , 26.7978, -80.6958, PKGUST, 57, mph, MESOWEST, Peak Wind Gust,
+:10/10/2024,0213 AM, FL, Palm Beach, Oakes Substation, , , 26.9116, -80.0634, PKGUST, 59, mph, WXFLOW, Peak Wind Gust,
+:10/10/2024,0404 AM, FL, Palm Beach, West Palm Beach, , , 26.6833, -80.1, PKGUST, 72, mph, ASOS, Peak Wind Gust,
+:10/09/2024,0510 PM, FL, Palm Beach, North Palm Beach, , , 26.85, -80.2167, PKGUST, 92, mph, AWOS, Peak Wind Gust,
+
+Observations are collected from a variety of sources with varying
+equipment and exposures. We thank all volunteer weather observers 
+for their dedication. Not all data listed are considered official.
+
+$$
+
+MFL
+
+
+
+366 
+NOUS42 KMFL 091931
+PNSMFL
+FLZ063-066>075-168-172>174-100745-
+
+Public Information Statement
+National Weather Service Miami FL
+331 PM EDT Wed Oct 9 2024
+
+...PALM BEACH NOAA WEATHER RADIO OFF THE AIR...
+
+The Palm Beach FL NOAA weather radio, broadcasting on a frequency
+of 162.475 Mhz (KEC50) is off the air due to an unanticipated 
+disruption. Technicians have been notified. 
+
+
+$$
+
+
