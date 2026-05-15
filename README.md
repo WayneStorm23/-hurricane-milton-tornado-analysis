@@ -44,7 +44,7 @@ Hurricane Milton produced the largest documented tornado outbreak associated wit
 
 ## Final Map
 
-![Milton Tornado Map](final_map/milton_tornado_outbreak_map.png)
+![Milton Tornado Map](milton_tornado_outbreak_map.jpg)
 
 
 ## Data Sources
@@ -57,14 +57,46 @@ Primary forecast offices included:
 - Miami, FL (KMFL)
 - Tampa Bay/Ruskin, FL (KTBW)
 
-Example archive sources:
+---
 
-- https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=PNSMLB
-- https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=PNSMFL
-- https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=PNSTBW
-- https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=PNSJAX
+## Example Survey Product
+
+Example excerpt from a National Weather Service Public Information Statement (PNS) used during the data collection process:
+
+Public Information Statement
+National Weather Service Melbourne FL
+937 PM EDT Sun Oct 13 2024
+
+...NWS Damage Survey for 10/09/24 Northeastern Okeechobee County 
+Tornado Event...
+
+.Northeastern Okeechobee County...
+
+Rating:                 EF1
+Estimated Peak Wind:    110 mph
+Path Length /statute/:  Approx 13.1 miles
+Path Width  /maximum/:  300 yards
+Fatalities:             0
+Injuries:               0
+
+Start Date:             10/09/2024
+Start Time:             02:15 PM EDT
+Start Location:         6 ESE Country Hills Estates / Okeechobee County / FL
+Start Lat/Lon:          27.3279 / -80.7285
+
+End Date:               10/09/2024
+End Time:               02:39 PM EDT
+End Location:           2 S Fort Drum / Okeechobee County / FL
+End Lat/Lon:            27.4988 / -80.8184
 
 
-## Project Goals
+These operational survey products were manually reviewed to extract tornado-track coordinates, EF ratings, and path metadata for statewide GIS integration.
 
-This project was designed to explore how geospatial tools and automation can improve the visualization and communication of fragmented operational meteorological survey data.
+## Survey Archive Files
+
+Full archived survey text products used during analysis:
+
+- [NWS Melbourne Survey Products](NWS_Melbourne.txt)
+- [NWS Miami Survey Products](NWS_MIAMI.txt)
+- [NWS Tampa Bay Survey Products](NWS_TAMPA%20BAY.txt)
+
