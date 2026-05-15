@@ -7,11 +7,11 @@ from PyQt5.QtGui import QColor
 layer = QgsVectorLayer("LineString?crs=EPSG:4326", "Tornado Tracks", "memory")
 pr = layer.dataProvider()
 
-# Add fields (in this case, the EF field)
+# Add fields 
 pr.addAttributes([QgsField("EF", QVariant.String)])
 layer.updateFields()
 
-# Use raw string for the path to your CSV file
+# Use raw string for the path to  CSV file
 csv_file_path = r'C:\Users\Wayne Morley\Downloads\yessirr.csv'
 
 # Add tornado tracks from CSV
@@ -33,13 +33,13 @@ with open(csv_file_path, 'r') as csvfile:
         
         pr.addFeature(feature)
 
-# Update the layer's extents and add it to the project
+# Update the layer's extents 
 layer.updateExtents()
 QgsProject.instance().addMapLayer(layer)
 
 # Define the color and line thickness for each EF scale
 symbol = layer.renderer().symbol()
-symbol.setWidth(1.5)  # Set line thickness (adjust as needed)
+symbol.setWidth(1.5)  # Set line thickness 
 
 categories = []
 
@@ -55,10 +55,10 @@ ef_colors = {
 }
 
 for ef, color in ef_colors.items():
-    # Create a category for each EF scale with the respective color
+    # Create a category for each EF scale 
     category = QgsRendererCategory(ef, QgsSymbol.defaultSymbol(layer.geometryType()), f"EF-{ef}")
     category.symbol().setColor(color)
-    category.symbol().setWidth(1.5)  # Adjust thickness here
+    category.symbol().setWidth(1.5)  # Adjust thickness 
     categories.append(category)
 
 # Set categorized renderer
