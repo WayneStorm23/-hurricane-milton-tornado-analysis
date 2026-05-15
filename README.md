@@ -29,7 +29,7 @@ Hurricane Milton produced the largest documented tornado outbreak associated wit
 
 5. Created geospatial line features representing tornado paths and symbolized tracks by EF intensity within QGIS.
 
-6. 6. Produced a finalized statewide GIS visualization using QGIS layout and mapping tools.
+6. Produced a finalized statewide GIS visualization using QGIS layout and mapping tools.
 
 
 ## Tools Used
